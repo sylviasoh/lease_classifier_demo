@@ -20,8 +20,8 @@ def RunApp(request):
     results = {}
     # reading static files which are 10 txts files of leases and 
     # nonleases each
-    leasedir = os.path.join(settings.STATIC_URL, 'leasedata/leases')
-    nonleasedir = os.path.join(settings.STATIC_URL, 'leasedata/nonleases')
+    leasedir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static/leasedata/leases')
+    nonleasedir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'static/leasedata/nonleases')
     leasepaths = [os.path.join(leasedir, f) for f in os.listdir(leasedir)]
     nonleasepaths = [os.path.join(nonleasedir, f) for f in os.listdir(nonleasedir)]
     
