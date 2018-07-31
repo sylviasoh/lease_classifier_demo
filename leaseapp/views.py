@@ -8,10 +8,6 @@ from sklearn.metrics import confusion_matrix, precision_recall_fscore_support,pr
 import re
 
 # Create your views here.
-#class MainView(FormView):
-#    template_name = 'main.html'
-#    form_class = MainForm
-#    success_url = '/results/'
     
 def MainView(request):
     return render(request, 'leaseapp/main.html', {})
