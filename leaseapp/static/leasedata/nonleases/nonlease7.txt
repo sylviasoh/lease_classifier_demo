@@ -1,0 +1,94 @@
+Pledgor: ....................................
+Secured Party:
+....................................
+[SECURITY AGMT - STOCK CERTIFICATES ONLY: 08/31/01]
+SECURITY PLEDGE AGREEMENT
+Dated:.............................
+1. This pledge agreement (the "Pledge Agreement") dated as of the date written above is made between the Pledgor and the Secured Party and is a "security agreement" within the meaning of Article 9 of the Uniform Commercial Code in effect in the State whose law governs this agreement (the "UCC"), as set forth below. Capitalized terms appearing herein have the meaning assigned to them in the definitions attached hereto as ANNEX A.
+2. On the terms and subject to the conditions contained in the Credit Agreement, the Secured Party has agreed to act as collateral agent for one or more financial institutions (the "Lenders") that have agreed to make loans or otherwise to extend credit to (or accept guarantees from) the Pledgor and its Affiliates. The obligations of the Lenders to make loans or to otherwise extend credit (or accept guarantees from the Pledgor and its Affiliates) is conditioned upon, among other things, the execution and delivery by the Pledgor of a Pledge Agreement in the form hereof to secure (i) the due and punctual payment of the Monetary Obligations, (ii) the due and punctual performance of all covenants, agreements, obligations and liabilities under or pursuant to the Credit Agreement, or any other document executed in connection therewith (collectively, the "Loan Documents"), and (iii) the due and punctual payment and performance of all covenants, agreements, obligations and liabilities of the Pledgor and any Affiliate of the Pledgor under or pursuant to the various Loan Documents (collectively, the "Secured Obligations").
+3. Pledge. As security for the payment and performance in full of the Secured Obligations, the Pledgor hereby grants to the Secured Party, its successors and assigns, a security interest in all of the Pledgor's right, title and interest in the Collateral for the benefit of the Secured Party and the Lenders.
+4. As to the Collateral. The Pledgor hereby represents, warrants and covenants:
+a. the Pledged Stock represents that percentage set forth on ANNEX B of the issued and outstanding shares of each class of the capital stock of the issuer with respect thereto and the other information set forth on ANNEX B is true, correct and comp lete;
+b. except for the security interest granted hereunder, or as otherwise noted on ANNEX B, the Pledgor (i) is and will at all times continue to be the direct owner, beneficially and of record, of the Pledged Securities indicated on ANNEX B, (ii) holds the Pledged Securities free and clear of all adverse claims, including any liens and Security Interests, (iii) will make no assignment, pledge, hypothecation or transfer of, or create or permit to exist any Security Interest in, adverse claim to, or other lien on, the Collateral, other than pursuant hereto, and (iv) will cause any and all Collateral (including, without limitation, all proceeds, dividends, distributions and interests issued in connection with stock splits or similar events) to be deposited with the Secured Party hereunder as soon as practicable after receipt (it being understood and agreed that any such property shall be held in trust by the Pledgor for the benefit of the Secured Party and the Lenders until it delivers such property to the Secured Party);
+c. the Pledgor (i) has the power and authority to pledge the Collateral in the manner contemplated by this Pledge Agreement and (ii) will defend its right, title and interest thereto or therein against any and all adverse claims, liens and Security Interests (other than the security interests created by this Pledge Agreement);
+            ShortPledgeAgr Page 1 8/31/2001
+
+[SECURITY AGMT - STOCK CERTIFICATES ONLY: 08/31/01]
+d. except for consents obtained on or prior to the date of this Pledge Agreement and listed on ANNEX B, no consent of any other person (including stockholders or creditors of the Pledgor) and no consent or approval of any governmental authority or any securities exchange is necessary for the validity of the security interest created hereunder or to prevent violation of any law, rule, regulation, order, decree, agreement, document or indenture to which the Pledgor or its property is subject;
+e. when the Pledged Securities, certificates or other documents representing or evidencing the Collateral are delivered to the Secured Party in accordance with this Pledge Agreement, the Secured Party will obtain a valid and perfected first priority lien upon and security interest in such Pledged Securities free of adverse claims of any other person;
+f. all of the Pledged Stock has been duly authorized and is validly issued, fully paid and nonassessable;
+g. all the stock powers executed and delivered to the Secured Party in connection with this Pledge Agreement and the delivery of the Collateral hereunder are, and will be, "effective endorsements" within the meaning of the UCC;
+h. all certificates representing the Pledged Securities delivered in connection with this Pledge Agreement are free of all restrictive legends, and any certificates representing the Pledged Securities delivered in the future will be free of all restrictive legends, except, in each case, for legends which require compliance with applicable securities laws governing the public or private sale of such securities (and any additional legends listed on ANNEX B);
+i. except as set forth on ANNEX B, each of the Pledged Securities constitutes a "security" within the meaning of Article 8 of the UCC;
+j. the Pledgor will pay all charges, duties, stamp taxes and any other costs, fees and expenses related to (i) the creation or perfection of the security interests hereunder, (ii) the maintenance of the priority of the security interests and (iii) the enforcement of remedies.
+5. Attorney in Fact. The Pledgor hereby appoints the Secured Party the attorney-in-fact of the Pledgor and gives the Secured Party its proxy to vote the Collateral for the purpose of carrying out the provisions of this Pledge Agreement and taking any action and executing any instrument that the Secured Party may deem necessary or advisable to accomplish the purposes hereof, which appointment and proxy each is irrevocable and coupled with an interest.
+6. Remedies. The Secured Party shall have available to it all the rights and remedies of a secured party under the UCC and any other applicable law. Without limiting the foregoing, following the occurrence and during the continuation of an event of default under the Credit Agreement, the Secured Party may vote the Collateral and cause any item of Collateral to be registered in the name of the Secured Party. All costs, expenses and legal fees of the Secured Party or any Lender in connection with (i) the exercise of remedies, (ii) the amendment, modification or waiver of this Pledge Agreement, or (iii) the restructuring or work-out of any Loan Document shall be for the account of the Pledgor.
+7. Further Assurances. The Pledgor agrees to dosuch further acts and things, and to execute and deliver such additional conveyances, assignments, agreements and instruments, as the Secured Party may at any time reasonably request in connection with the administration and enforcement of this Agreement or with respect to the Collateral or any part thereof or in order better to assure and confirm unto the Secured Party its rights and remedies hereunder.
+8. Amendment and Waiver. Neither this Pledge Agreement nor any provision hereof may be waived, amended or modified except pursuant to a written agreement entered into between the Pledgor and the Secured Party. No failure or delay of the Secured Party in exercising any power or right hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any such right or power preclude any
+       ShortPledgeAgr Page 2 8/31/2001
+
+further exercise of any other right or power.
+9. Notices. All notices and communications hereunder shall be in writing and shall be deemed to have been received and shall be effective on the day on which delivered (including delivery by facsimile or e- mail) to the recipient at the address, fax number or e-mail address appearing below each party's signature.
+10. Governing Law. THIS AGREEMENT SHALL BE GOVERNED BY, AND CONSTRUED IN ACCORDANCE WITH, THE LAWS OF THE STATE OF ______________________.∗
+IN WITNESS WHEREOF, the parties hereto have duly executed this Pledge Agreement as of the day and year first above written.
+___________________________ Secured Party
+by: ________________________ Name:
+Title: Address:
+___________________________ ___________________________ ___________________________
+[SECURITY AGMT - STOCK CERTIFICATES ONLY: 08/31/01]
+  _________________________ Pledgor
+by: ______________________ Name:
+Title: Address:
+_________________________ _________________________ _________________________ _________________________
+ ∗ Likely specify New York or Delaware law. Unless the certificates will be maintained in New York State, it might make sense to specify Delaware law as this is the jurisdiction of the issuer.
+ShortPledgeAgr Page 3 8/31/2001
+
+[SECURITY AGMT - STOCK CERTIFICATES ONLY: 08/31/01]
+ANNEX A DEFINITIONS
+1. "Affiliate" means, with respect to a specified Person, another Person that directly, or indirectly through one or more intermediaries, Controls or is Controlled by or is under common Control with the Person specified; provided that two or more Persons shall not be deemed Affiliates solely because an individual is a director and/or officer of each such Person.
+2. "Collateral" means (i) the Pledged Stock, (ii) the Pledged Debt Securities, (iii) all other property that may be delivered to or held by the Secured Party pursuant to the terms hereof, (iv) all payments of principal or interest, dividends, cash, instruments and other property from time to time received, receivable or otherwise distributed, in respect of, in exchange for or upon conversion of the Pledged Stock and Pledged Debt Securities, (v) all rights and privileges of the Pledgor with respect to the securities and other property referred to in clauses (i) through (iv) above, and (vi) all proceeds of any of the foregoing.
+3. "Control" has the meaning assigned to it in the Credit Agreement.
+4. "Credit Agreement" means: ....................................................................................................................................................................... ....................................................................................................................................................................... ....................................................................................................................................................................... ,
+as the same may be amended, modified, restated or waived from time to time.
+5. "Lenders" has the meaning assigned to it in Section 2 of this Pledge Agreement.
+6. "Loan" means all amounts owed to the Secured Party and the Lenders under the Loan Documents,
+including, without limitation, any future advances or extensions of credit under any Loan Document.
+7. "Loan Document" has the meaning assigned to it in Section 2 of this Pledge Agreement.
+8. "Monetary Obligations" means (i) the principal of and premium, if any, and interest (including interest
+(whether or not post-petition) accruing during the pendency of any bankruptcy, insolvency, receivership or other similar proceeding, regardless of whether allowed or allowable in such proceedings) on the Loans, when and as due, whether at maturity, by acceleration, upon one or more dates set forth for prepayment or otherwise, and payments or performance under any guarantees thereof, (ii) any payment required to be made under the Credit Agreement in respect of any Letter of Credit, when and as due, including payments in respect of reimbursements of disbursements, interest thereon and obligations to provide cash collateral and (iii) all other monetary obligations, including fees, costs, expenses and indemnities, whether primary, secondary, direct, contingent, fixed or otherwise (including monetary obligations incurred during the pendency of any bankruptcy, insolvency, receivership or other similar proceeding, regardless of whether allowed or allowable in such proceeding) in connection with the foregoing. The term "Monetary Obligations" also shall include obligations under any derivatives contract or other agreement set forth on ANNEX B hereto.
+9. "Person" means any natural person, corporation, limited liability company, trust, joint venture, association, company, partnership or other entity.
+10. "PledgeAgreement"hasthemeaningsetforthinSection1ofthisPledgeAgreement.
+11. "Pledged Debt Securities" means (i) the debt securities listed on ANNEX B hereto, (ii) any debt securities in the future included in the Collateral and (iii) the promissory notes and/or any other instruments evidencing such debt securities.
+              ShortPledgeAgr Page 4 8/31/2001
+
+12. "PledgedSecurities"meansanyandallstockcertificates,notesorothersecuritiesnoworhereafter included in the Collateral and the interests represented thereby.
+13. "PledgedStock"meansthesharesofcapitalstockandotherequityinterestslistedonANNEXB hereto.
+14. "Pledgor"meansthepartylistedbeneaththetitle"Pledgor"intheheadingofthisPledgeAgreement. 15. "SecurityInterest"hasthemeaningassignedtoitintheCreditAgreement.
+16. "SecuredParty"meansthepartylistedbeneaththetitle"SecuredParty"intheheadingofthisPledge Agreement.
+17. "SecuredObligations"hasthemeaningassignedtoitinSection2ofthisPledgeAgreement. 18. "UCC" has the meaning assigned to it in Section 1 of this Pledge Agreement.
+[SECURITY AGMT - STOCK CERTIFICATES ONLY: 08/31/01]
+        ShortPledgeAgr Page 5 8/31/2001
+
+[SECURITY AGMT - STOCK CERTIFICATES ONLY: 08/31/01]
+ANNEX B CAPITAL STOCK
+        ISSUER
+     NUMBER OF CERTIFICATE
+      REGISTERED OWNER
+      NUMBER AND CLASS OF SHARES
+      PERCENTAGE OF SHARES
+                                                                                                   DEBT SECURITIES
+       ISSUER
+     PRINCIPAL AMOUNT
+   DATE OF NOTE
+       MATURITY DATE
+                                                                                 EXISTING SECURITY INTERESTS ON PLEDGED SECURITIES:
+........................................................................................................................................................................................... ........................................................................................................................................................................................... ...........................................................................................................................................................................................
+CONSENTS OBTAINED:
+........................................................................................................................................................................................... ........................................................................................................................................................................................... ...........................................................................................................................................................................................
+CERTIFICATES WITH RESTRICTIVE LEGENDS:
+........................................................................................................................................................................................... ........................................................................................................................................................................................... ...........................................................................................................................................................................................
+PLEDGED SECURITIES WHICH ARE NOT "SECURITIES" UNDER THE UCC:
+........................................................................................................................................................................................... ........................................................................................................................................................................................... ...........................................................................................................................................................................................
+DERIVATIVE CONTRACTS AND OTHER AGREEMENTS:
+........................................................................................................................................................................................... ........................................................................................................................................................................................... ...........................................................................................................................................................................................
+     ShortPledgeAgr Page 6 8/31/2001

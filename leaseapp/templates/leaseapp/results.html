@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+        <style>
+            nav{
+                background-color: #26a69a;
+                font-family: Tahoma;
+            }
+            table{
+                margin:2.5% auto;
+                width: 60%;
+                font-size: 18px
+            }
+            th, td{
+                text-align: center;
+            }
+            caption{
+                text-align: left;
+                font-size: 20px;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <nav>
+            <div class="nav-wrapper">
+                <a href="#" class="brand-logo center">Results</a>
+            </div>
+        </nav>
+        
+        <table>
+            <caption>Confusion Matrix</caption>
+            <tc>
+            <td></td>
+            </tc>
+            <tc>
+            <th>Leases</th>
+            </tc>
+            <th>Non-Leases</th>
+            </tc>
+            <tr>
+            <th>Leases</th>
+            <td>{{TP}}</td>
+            <td>{{FN}}</td>
+            </tr>
+            <tr>
+            <th>Non-Leases</th>
+            <td>{{FP}}</td>
+            <td>{{TN}}</td>
+            </tr>
+        </table>
+        
+        <table class="striped">
+            <caption style= "padding: 10px 10px">Average Scores</caption>
+            <tr>
+            <th>Precision</th>
+            <td>{{precision}}
+            </tr>
+    
+            <tr>
+            <th>Recall</th>
+            <td>{{recall}}
+            </tr>
+            
+            <tr>
+            <th>F1 Score</th>
+            <td>{{f1_score}}
+            </tr>        
+        </table>
+    
+    
+    </body>
+</html>

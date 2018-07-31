@@ -1,0 +1,87 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
+        <style>
+            th{
+                padding: 20px 15px;
+                text-align: center;
+            }
+            tr{
+                border:0px;
+            }
+            td{
+                padding:5px 25px;    
+            }
+            nav{
+                background-color: #26a69a;
+                font-family: Tahoma, bold;
+            }
+            #centering{
+                text-align: center;
+            }
+            tr td:nth-child(2){
+                width: 33%;
+            }
+        </style>
+    </head>
+    <body>
+        <nav>
+            <div class="nav-wrapper">
+              <a href="#" class="brand-logo center">Welcome</a>
+            </div>
+        </nav>
+
+        <form action="results/" method="post">
+            {% csrf_token %}
+            <div class = "container">
+                <table style= "font-size: 18px; width: 70%; margin: 0 auto">
+                    <thead>
+                    <th>Words to Detect</th>
+                    <th>Points</th>
+                    </thead>
+                    
+                    <tbody>
+                    <tr>
+                    <td style=><input type="text" name="word1"></td>
+                    <td><input type="number" name="point1" min="1"></td>
+                    </tr>
+                    
+                    <tr>
+                    <td><input type="text" name="word2"></td>
+                    <td><input type="number" name="point2" min="1"></td>
+                    </tr>
+                    
+                    <tr>
+                    <td><input type="text" name="word3"></td>
+                    <td><input type="number" name="point3" min="1"></td>
+                    </tr>
+                    
+                    <tr>
+                    <td><input type="text" name="word4"></td>
+                    <td><input type="number" name="point4" min="1"></td>
+                    </tr>
+                
+                    <tr>
+                    <td><input type="text" name="word5"></td>
+                    <td><input type="number" name="point5" min="1"></td>
+                    </tr>
+                        
+                    <tr>
+                    <th style= "border-bottom: 0px">Score Threshold :</th>
+                    <td><input type="number" name="lease_threshold" min="1"></td>
+                    </tr>
+                    </tbody>    
+                </table>
+            </div>
+            <br/>
+            <div class= "container" id= "centering">    
+                <button class="btn waves-effect waves-light" type="submit" name="action" style= "width: 20%; height: 50px; font-size: 16px">Submit</button>
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <button class="btn waves-effect waves-light" type="reset" name="action" style= "width: 20%; height: 50px; font-size: 16px">Reset</button>
+            </div>
+        </form>
+    </body>
+</html>

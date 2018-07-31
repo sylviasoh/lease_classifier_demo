@@ -1,0 +1,3720 @@
+Yandex N.V. – AGREEMENT No. 251208 Commercial Lease
+
+https://www.lawinsider.com/contracts/4DCNcw6Z0PqCWVt0RbeSVj/yandex-n-v/1513845/2011-04-28
+
+Yandex N.V., Commercial Lease
+
+
+
+
+Exhibit 10.3
+ 
+AGREEMENT No. 251208
+Commercial Lease
+ 
+
+
+
+Moscow 
+
+  
+
+December 25, 2008   
+ 
+This agreement (hereinafter referred to as the Agreement) is made between Closed Joint Stock Company Red Rose 1875 (Principle State Registration Number 1027704010003; Taxpayer Identification Number 7704247102) incorporated under the laws of the Russian Federation, represented by the General Director Lukin Mikhail Anatolievich, acting pursuant to the Articles of Association, hereinafter referred to as the Landlord, and Limited Liability Company YANDEX (Principle State Registration Number 1027700229193; Taxpayer Identification Number 7736207543), incorporated under the laws of the Russian Federation, represented by the General Director Volozh Arkady Yurievich, acting pursuant to the Articles of Association, hereinafter referred to as the Tenant, hereinafter individually and collectively referred to as the Party/Parties, which have agreed as follows:
+ 
+Terms and Definitions
+ 
+Unless otherwise provided herein, words and expressions for the purposes of the present Agreement shall have the following meaning:
+ 
+Return Act means a document drafted by the Parties under Clause 2.5 of the Agreement confirming proper performance by the Tenant of its obligation to return the Premises.
+ 
+Transfer and Acceptance Act means a document drafted by the Parties under Clause 2.1 of the Agreement confirming proper performance by the Landlord of its obligation to transfer the Premises to the Tenant.
+ 
+Lease Payment means the sum of money paid for the use of Premises, Maintenance Costs (Technical Support), costs for installation of Tenants technical equipment (Clause 1.11 of the Agreement) and utility charges (except for electrical power supply of the Premises). The amount of the Lease Payment is defined in Article 8 hereof.
+ 
+Security Deposit means the sum of money paid to the Landlord by the Tenant as a guarantee for full and proper performance of its obligations listed in Clause 9.2 of the Agreement. The amount of the Security Deposit is defined in clause 9.1 hereof.
+ 
+Building means commercial building located at the following address: 16 Leo Tolstoy Street, Moscow. The description of the Building is set out in Exhibit 3 attached hereto.
+ 
+Common areas mean the part of the Building/Complex designated for common use by all persons using premises in the Building/Complex (including but not limited to accesses to the Building/Complex, lounge or lobby areas, hallways, stairs, elevators, bathrooms).
+ 
+Premises mean the part of Building defined in Clause 1.2 hereof, technical specifications of which are stipulated in Exhibit 3 hereto.
+ 
+Fit-Out Works mean construction, finishing, engineering and installation works in Premises which shall be completed by the Tenant and/or by the Tenants Contractor in accordance with the present Agreement unless otherwise is expressly set out herein.
+ 
+Contractors mean contracting agencies engaged to perform the Fit-Out Works in the Premises.
+ 
+Fit-Out Works Completion Rules mean a set of rules binding on the Tenant and the Tenants Contractors while in the Building and while performing the Fit-Out Works in the Premises (Exhibit 4 hereto).
+ 
+Fit-Out Works Project means design and other documents containing full information on the Fit-Out Works in the Premises.
+ 
+
+
+
+
+ 
+Lease Term means the period of time for which the Landlord leases the Premises to the Tenant.
+ 
+Construction Project means the Project of construction of the business centre including the underground parking located at the following address: 11 (building 8) Timura Frunze Street, Moscow prepared by Limited Liability Company Architectural Bureau Sergey Kiselev and Partners, approved by the Report of Moscow State Interdepartmental Expertise as of March 30, 2006, No. 28-P4/06 MGE and agreed by the Cultural Heritage Committee of Moscow, the Federal Surveillance Service for Compliance with the Law in Mass Communications and Cultural Heritage Protection, the Expert Advisory Social Board at the Chief Architect of Moscow, and other design documents containing full information on the Building construction works.
+ 
+Improvements mean permanent improvements to the Premises which may be performed by the Tenant within the Lease Term.
+ 
+Target Purpose means use of the Premises as non-residential office premises, warehouse and technical rooms including for the purposes of establishment of information processing center (server room).
+ 
+Maintenance of the Building/Premises means set of works performed by the Landlord on maintenance of the Building elements, performance goals and operation mode of its technical devices in good working in accordance with Responsibility Delineation Act and Clause 6.3 of this Agreement.
+ 
+Maintenance Costs mean expenses of the Landlord on management and maintenance of the Building and its adjacent territory in accordance with Clause 6.3 hereof.
+ 
+Article 1.               Scope of Agreement
+ 
+1.1.          The Landlord shall lease to the Tenant and the Tenant shall lease from the Landlord, upon the terms and conditions contained herein, the Premises for the Lease Term specified by the Agreement. The Tenant shall use the Premises and pay the Lease Payment under this Agreement.
+ 
+1.2.          The Premises, under this Agreement, are non-residential premises with total area of sixteen thousand one hundred ninety nine point three (16 199.3) square meters, in accordance with the data provided by the Territorial Bureau of Technical Inventory, located at the following address: 16 Leo Tolstoy Street, Moscow, the precise borders of which are fixed by the Parties on signing this Agreement and shown edged in brown lines in Exhibit1 hereto as follows:
+ 
+1.2.1.       In basement  two hundred fifty nine point nine (259.9) square meters, office I, rooms No. 16, 27  30;
+ 
+1.2.2.       On the ground floor  seven hundred twenty four point seven (724.7) square meters, office IV, rooms No. 6, 20, 21; office VII, room No. 6;
+ 
+1.2.3.       On the first floor  two thousand two hundred seventy six point eight (2 276.8) square meters, office V, room No. 1; office VIII, room No. 1, office X, rooms No. 1, 2, 3;
+ 
+1.2.4.       On the second floor  two thousand six hundred twelve point zero (2 612.0) square meters, office I, room No. 1; office IV, room No. 1; office VI, rooms No. 1, 2; office VII, room No. 1;
+ 
+1.2.5.       On the third floor  three thousand one hundred sixty seven point nine (3 167.9) square meters, office I, room No. 1; office IV, room No. 1; office VI, rooms No. 1, 2; office VII, room No. 1; office VIII, room No. 1;
+ 
+2
+
+
+
+
+ 
+1.2.6.       On the fourth floor  two thousand seven hundred thirty six point two (2 736.2) square meters, office I, room No. 1; office IV, room No. 1; office VI, room No. 1; office VII, room No. 1; office VIII, room No. 1;
+ 
+1.2.7.       On the fifth floor  two thousand two hundred sixty five point nine (2 265.9) square meters, office I, room No. 1; office IV, room No. 1; office VI, rooms No. 1, 2, 3;
+ 
+1.2.8.       On the sixth floor  two thousand one hundred fifty five point nine (2 155.9) square meters, office I, room No. 1; office IV, room No. 1; office V, room No. 4; office VI, room No. 1.
+ 
+1.3.          The areas specified in Clause 1.2 hereof shall not apply in commercial relations between the Parties including to define the amount of the Lease Payment under the Agreement and shall be used only for the purposes of the public registration of this Agreement.
+ 
+1.4.          The Landlord owns the Premises as a property as confirmed by the entry to the Unified State Register of Rights to Real Estate and Transactions made on December 08, 2008 under No. 77-77-12/020/2008-575 (Certificate on Public Registration of Title No. 77 A 621404 of December 08, 2008).
+ 
+The Landlord hereby represents and warrants to the Tenant as of the date of this Agreement, the Premises leased are not mortgaged, are free from any rights and claims of any third persons, are not in dispute or under arrest (not prohibited).
+ 
+1.5.          The Building is the part of the functionally single and centrally controlled complex  Business Block Red Rose (hereinafter referred to as the Complex) being under construction performed by the Landlord and located at the following address: 11 (building 44) Timura Frunze Street, Moscow.
+ 
+1.6.          The Tenant shall have the right to use the Common Areas collectively with the Landlord and other Tenants of the Building in accordance with their intended use. The Tenant shall have the right, together with the Landlord and other persons which obtained a permit from the Landlord, to connect and use engineering infrastructure, network and equipment fixed in the Common Areas and providing services to them in accordance with the procedure established by the Landlord.
+ 
+1.6.1.       The Parties acknowledge the Common Areas may be expanded in process of the Complex construction. Therefore, for the purposes of this Agreement the Common Areas shall mean only the areas completely constructed, put in commission, actually maintained by the Landlord within the Lease Term under the Agreement and designed by the Landlord for common use by the Complexs tenants. Improvement and alteration of the Common Areas is prohibited by the Landlord. The Landlord is entitled to remove at any time any revealed alteration or improvement performed without the Landlords consent without recovering damages caused to the Tenant but with the Tenant indemnifying the Landlord.
+ 
+1.6.2.       The Tenant shall not use engineering infrastructure, networks and equipment for purposes other than their intended use or exceed their structural (project) power.
+ 
+1.7.          The Landlord shall ensure functioning the following infrastructure objects in the Complexs territory within the Lease Term:
+ 
+·      Car wash;
+ 
+·      Restaurant;
+ 
+·      Café;
+ 
+·      Canteen;
+ 
+3
+
+
+
+
+ 
+·      Conference-Centre.
+ 
+1.8.          Provision of communication services by the Landlord to the Tenant is out of scope of this Agreement. The Landlord hereby agrees to have an optical communication cable led in the Building and provide to the Tenant with specification documents within fifteen (15) calendar days after the request is received from the Tenant. The Tenant shall lead an optical communication cable to the Building by its own efforts and at its own expense, shall maintain it within the Lease Term and demount it when the Agreement is terminated at its own expense.
+ 
+1.9.          The landlord shall not be liable for safety, damage or loss of cars belonged to the Tenant as well as for property inside the cars parked in the territory of the Complex and belonged to the Tenant, its employees and/or visitors including for damage caused by wrongful actions of third persons, except for cases of theft, loss or damage caused to the car and/or to the property inside directly by the Landlords employees.
+ 
+1.10.        Business hours in the Building and in the Complex (hereinafter referred to as the Business Hours) shall be from 09h00 a.m. until 09h00 p.m. every day except for Saturday and Sunday and public holidays in Russia.
+ 
+1.11.        The Landlord shall install the Tenants equipment in places agreed by the Parties.
+ 
+Article 2.               Transfer and Return of Premises
+ 
+2.1.          In the following time periods the Landlord shall transfer to the Tenant and the Tenant shall accept the Premises in actual condition specified in the Transfer and Acceptance Act in the form of Exhibit 2 hereto, which shall be signed by the Tenant confirming the transfer of the Premises by the Landlord to the Tenant:
+ 
+2.1.1.       On or prior to January 01, 2009  the part of the Premises with area of four thousand eighty point eight (4 080.8) square meters including:
+ 
+2.1.1.1.  On the ground floor  four hundred eighty two point two (482.2) square meters, office IV, room No. 6;
+ 
+2.1.1.2.  On the first floor  five hundred ninety seven point four (597.4) square meters, office V, room No. 1;
+ 
+2.1.1.3.  On the second floor  six hundred six point one (606.1) square meters, office I, room No. 1;
+ 
+2.1.1.4.  On the third floor  six hundred seven point four (607.4) square meters, office I, room No. 1;
+ 
+2.1.1.5.  On the fourth floor  five hundred seventy four point eight (574.8) square meters, office I, room No. 1;
+ 
+2.1.1.6.  On the fifth floor  six hundred two point five (602.5) square meters, office I, room No. 1;
+ 
+2.1.1.7.  On the sixth floor  six hundred ten point four (610.4) square meters, office I.
+ 
+2.1.2.       On or prior to July 01, 2009  the part of the Premises with area of twelve thousand one hundred eighteen point five (12 118.5) square meters including:
+ 
+2.1.2.1. In the basement  two hundred fifty nine point nine (259.9) square meters, office I, rooms No. 16, 27  30;
+ 
+2.1.2.2. On the ground floor  two hundred forty two point five (242.5) square meters, office IV, rooms No. 20, 21; office VII, room No. 6;
+ 
+4
+
+
+
+
+ 
+2.1.2.3.  On the first floor  one thousand six hundred seventy nine point four (1 679.4) square meters, office VIII, room No. 1; office X, rooms No. 1, 2, 3;
+ 
+2.1.2.4.  On the second floor  two thousand five point nine (2 005.9) square meters, office IV, room No. 1; office VI, rooms No. 1, 2; office VII, room No. 1;
+ 
+2.1.2.5.  On the third floor  two thousand five hundred sixty point five (2 560.5) square meters, office IV, room No. 1; office VI, rooms No. 1, 2; office VII, room No. 1; office VIII, room No. 1;
+ 
+2.1.2.6.  On the fourth floor  two thousand one hundred sixty one point four (2 161.4) square meters, office IV, room No. 1; office VI, room No. 1; office VII, room No. 1; office VIII, room No. 1;
+ 
+2.1.2.7.  On the fifth floor  one thousand six hundred sixty three point four (1 663.4) square meters, office IV, room No. 1; office VI, rooms No. 1, 2, 3;
+ 
+2.1.2.8.  On the sixth floor  one thousand five hundred forty five point five (1 545.5) square meters, office IV, room No. 1; office V, room No. 4; office VI, room No. 1.
+ 
+2.2.          The Landlord transfers the Premises to the Tenant in return for the Lease Payment and other payments under the Agreement which shall be effected by the Tenant.
+ 
+2.3.          In case the Tenant unreasonably refuses to sign the Transfer and Acceptance Act within three (3) business days as from the date it was presented by the Landlord, the Landlord shall be entitled to sign the Transfer and Acceptance Act unilaterally.  In that case the day of signing the Transfer and Acceptance Act and the day of accepting the Premises by the Tenant shall be deemed the day following expiration of the term specified here above.
+ 
+2.4.          The Tenant shall accept the Premises from the Landlord within three (3) business days as from the moment the Transfer and Acceptance Act is received form the Landlord.  The Parties shall indicate the following information in the Act:
+ 
+a.     incompliance (defects) of the Premises and the Common Areas with the requirements stipulated in Exhibit 3 hereto and with the Construction Project;
+ 
+b.     incompliance (defects) of the Premises with the requirements stipulated in the Fit-Out Works Project approved by the Parties in accordance with this Agreement.
+ 
+The Parties hereby acknowledge that the incompliance (defects) of the Premises with the Fit-Out Works Project does not constitute an obstacle to use the Premises by the Tenant in accordance with the Agreement or a ground for refusal of the Tenant to sign the Transfer and Acceptance Act.  The abovementioned defects shall be eliminated by the Landlord within the time period agreed by the Parties in the Transfer and Acceptance Act.
+ 
+The Parties hereby acknowledge that minor incompliance (defects) of the Premises and the Common Areas with the requirements stipulated in Exhibit 3 and with the Construction Project (minor spalls or scratches on walls, floor, ceiling, or minor defects on window and door embrasures etc.) does not constitute substantial defects of the Premises and the Common Areas or an obstacle to use the Premises and the Common Areas by the Tenant under the Agreement.  The abovementioned defects shall be eliminated by the Landlord within thirty (30) calendar days as from the date of the Transfer and Acceptance Act.
+ 
+5
+
+
+
+
+ 
+2.5.          The return of the Premises by the Tenant to the Landlord shall be documented in the form of the Return Act signed by the Parties on the day when the Lease Term is expired or the Agreement is prematurely terminated or either party has unilaterally withdrawn from the Agreement.
+ 
+In case the Landlord unreasonably refuses to sign the Return Act within three (3) business days as from the date it was presented by the Tenant, the Tenant shall be entitled to sign the Return Act unilaterally.  In that case the day of signing the Return Act and the day of accepting the Premises by the Tenant shall be deemed the day following expiration of the term specified here above.
+ 
+2.6.          The Tenant shall return the Premises to the Landlord in condition it was transferred to the Tenant under the Transfer and Acceptance Act with normal wear and tear and with improvements to the Premises in case they were made by either the Landlord or the Tenant within the Lease Term. The Tenant shall return the Premises to the Landlord free of the Tenants staff and property.
+ 
+2.7.          In case a joint commission composed of the Tenants and Landlords representatives, while vacating the Premises by the Tenant, finds defects of the Premises which deteriorates their condition as compared with that specified in Clause 2.6 of the Agreement, the Parties shall draft the Premises Defects Act under which the Tenant shall eliminate the defects promptly, independently and at its own expense or reimburse to the Landlord for their elimination.  In case the Tenant avoids signing the document on the defects or damage caused to the Landlord, the Landlord shall be entitled to appraise the damage independently, calculate the amount of compensation to be paid to the Landlord, demand its payment from the Tenant and/or retain such compensation from the Security Deposit by notifying the Tenant.
+ 
+2.8.          If the Tenant does not return the Premises to the Landlord and continues using them after the Lease Term specified in Clause 3.2 is expired or in the event of premature termination of the Agreement the Tenant shall pay to the Landlord double Lease Payment for use of the Premises after the expiration date.  The Tenant shall not be exempted from the obligation to vacate the Premises on paying the abovementioned amount of money.
+ 
+Article 3.               Lease Term
+ 
+3.1.          The Lease Term under this Agreement shall be counted as from the transfer of the Premises by the Landlord to the Tenant under the Transfer and Acceptance Act in accordance with Article 2 of this Agreement.
+ 
+3.2.          The Lease Term is ten (10) years as from the date of the Transfer and Acceptance Act on the part of the Premises specified in Clause 2.1.1 hereof until 11h59 p.m. of December 31, 2018. The Parties hereby confirm the Tenant, on condition of proper compliance with its obligations hereunder, has the preemptive right to make the lease agreement for a new term all conditions being equal to all counterparties.
+ 
+Article 4.               Building Maintenance Services
+ 
+4.1.          The Landlord shall provide the Tenant with the following services related to the maintenance of the Premises during the Lease Term:
+ 
+4.1.1.      Maintain the Building according to its technical characteristics specified in the Construction Project and Exhibit 3 to the Agreement;
+ 
+4.1.2.       In accordance with the Responsibility Delineation Act (Exhibit 5 to the Agreement) eliminate defects, emergencies in electrical, water, heat and other supply systems of the
+ 
+6
+
+
+
+
+ 
+Building ensuring maintenance of the Premises but excluding emergencies in public electrical, water and heat supply systems happened through no fault of the Landlord.
+ 
+4.1.3.       In accordance with the Responsibility Delineation Act perform major repairs and reconstruct the basement, roof, external walls, roof drainback system, roof overhang, supporting frameworks and main heat supply systems of the Building, energy distribution systems, plumbing systems, smoke and fire alarm systems and elevators. The abovementioned actions shall be effected during the period agreed by the Parties or in such a manner as neither to worsen the Tenants conditions under the Agreement and ordinary course of business nor to limit normal use of the Premises.
+ 
+4.1.4.       Maintain the Building in technically operative condition in compliance with sanitary and fire protection rules, ensure safety of people in the Building, promptly eliminate breach of these rules and consequences thereof.
+ 
+4.1.5.       In case damage has been caused to the Premises or the property inside through the Landlords fault take all necessary measures to eliminate consequences. The extent of damages and its recovery procedure shall be determined in accordance with Clause 10.7 of the Agreement.
+ 
+4.2.          The Tenant shall provide the Landlord with the following services related to the maintenance of the Premises:
+ 
+4.2.1.       Maintain the Premises in technically operative condition in compliance with sanitary and fire protection rules, eliminate breach of these rules and consequences thereof in accordance with the Agreement and the Responsibility Delineation Act so that the Premises comply with the abovementioned rules.
+ 
+4.2.2.       In case damage (except for normal wear and tear) caused to the Premises through the Tenants fault take all necessary measures in order to eliminate consequences in accordance with the Responsibility Delineation Act. The extent of damages and its recovery procedure shall be determined under Clause 10.7 of the Agreement.
+ 
+Article 5.               Public Registration of Agreement
+ 
+5.1.          The Tenant shall within ten (10) business days as from the date of the Agreement provide the Landlord with the following documents necessary for public registration of this Agreement:
+ 
+·      copies of the Constituent Agreements of the Tenant as amended, Certificate of State Registration of the Tenant as a legal entity, Certificate on Principle State Registration Number, Certificate on Taxpayer Identification Number, Information Letter of the Federal State Statistic Service on assignment of codes to the Tenant, copies of the minutes and the order on appointment of the General Director of the Tenant;
+ 
+·      four originals of the Agreement signed by the Tenant;
+ 
+·      other documents necessary for the public registration of this Agreement provided by the current laws of the Russian Federation.
+ 
+5.2.          The Landlord shall transfer this Agreement for the public registration to the relevant authority within ten (10) business days after all the documents necessary for the public registration and an invoice confirming payment of the state duty for such registration are received from the Tenant.
+ 
+5.3.          The Landlord shall transfer one original of the Agreement registered by the relevant authority to the Tenant provided the Tenant presents a power of attorney with the right of the representative to receive registered documents and sign on behalf of the Tenant.
+ 
+7
+
+
+
+
+ 
+The original of the Agreement registered by the relevant authority shall be transferred under the Transfer and Acceptance Act.
+ 
+5.4.          In case the Agreement is amended or added somehow at the Tenants initiative or early terminated through the Tenants fault the Tenant shall reimburse the Landlord for all its expenses related to the public registration of such amendments or additions, or a termination agreement.
+ 
+5.5.          In case the Agreement is amended or added somehow at the Landlords initiative or early terminated through the Landlords fault, the Landlord shall bear all expenses related to the public registration.
+ 
+5.6.          In case the Lease Term is expired (and is not prolonged or renewed) or the Agreement is early terminated the Tenant shall provide the Landlord with all the documents and information necessary for registration of the Lease Term expiration (premature termination of the Agreement) by the Federal registering authority and reimburse the Landlord for all the expenses on registration of the Lease Term expiration (premature termination of the Agreement).
+ 
+5.7.          In case the Landlord misses the deadline to submit documents for public registration of this Agreement to the Federal registering authority (the relevant public authority) responsible for public registration of titles to real estate and transactions the Landlord shall, on the Tenants demand, pay a penalty in the amount of one tenth (1/10 ) of the Security Deposit.
+ 
+Article 6.               Rights and Obligations
+ 
+The Landlord shall perform the following obligations:
+ 
+6.1.          Transfer the Premises to the Tenant in accordance with the Agreement.
+ 
+6.1.1.       Complete the Fit-Out Works in the Premises in accordance with the Fit-Out Works Project and eliminate defects in compliance with the list determined by the Parties under Clause 2.4 of this Agreement and agreed in the Transfer and Acceptance Act of the Premises.
+ 
+6.2.          Avoid direct or indirect interference into the Tenants activities and ensure unrestricted possession and use of the Premises by the Tenant (unless otherwise is stipulated by the Agreement) in accordance with the Agreement including avoid performance of activities obstructing access to the Premises or making noise or breaking sanitary rules or creating threat to people in the Building, avoid interference to the Tenants operating and commercial activities but except for taking measures in respect of the Tenant in accordance with the Agreement in the event of failure to perform its obligations hereunder.
+ 
+6.3.          As from the date of the Transfer and Acceptance Act and during the Lease Term the Landlord shall provide the Tenant with the following services:
+ 
+6.3.1.       Maintenance of the engineering systems of the Building/Premises (technical support and repair of mechanical and engineering systems) in accordance with the Responsibility Delineation Act.
+ 
+6.3.2.       Twenty-four-hour security of the Building.
+ 
+6.3.3.       Maintenance of the Building/Premises excluding maintenance which is in the scope of the Tenant in accordance with the Responsibility Delineation Act.
+ 
+6.3.4.       Garbage removal from the common storage areas in the territory adjacent to the Building.
+ 
+6.3.5.       Regular cleaning of elevators lobbies, stairs openings.
+ 
+8
+
+
+
+
+ 
+6.3.6.       Uninterrupted twenty-four-hours functioning, technical support and cleaning of elevators in the Building excluding periods of providing technical support and cleaning of elevators.
+ 
+6.3.7.       Season cleaning of the window external surfaces of the Building (two times a year).
+ 
+6.3.8.       Cleaning and landscaping of the territory adjacent to Building.
+ 
+6.3.9.       Functioning of the central fire alarm system in the Premises/Building.
+ 
+6.3.10.     Functioning of the central ventilation and cooling system in the Building/Premises during business days from 09h00 a.m. until 09h00 p.m.
+ 
+6.3.11.     Functioning of the central heating system in the Building/Premises.
+ 
+6.3.12.     Maintenance of the emergency response services and emergency repair of utilities of the Building.
+ 
+6.3.13.     Twenty-four-hour access control to the Building.
+ 
+6.3.14.     Administration of maintenance service of the Building/Premises.
+ 
+6.3.15.     Uninterrupted twenty-four-hour supply of the Premises with electricity (electric power not exceeding 1 650 kW; within the period from January 01, 2009 until July 01, 2009  at least 600 kW (220 V)), except for the periods when electricity supply is cut off by the supply undertaking for the purposes of repair, technical support or any other reason beyond the control of the Landlord, or except for the period when the power line is shut off in the event of emergency. Every six months the Tenant shall provide the Landlord with the request in writing for electric power for the next 6 (six) months of the Lease Term at least 60 (sixty) calendar days prior to the abovementioned period. In case the Tenant failures to provide the Landlord with the request, the Landlord shall provide the Tenant with the electric power in the amount agreed by the Parties for the previous period of the Lease Term.
+ 
+6.3.16.     Season heat and hot water supply in accordance with the resources supply schedule adopted by the supply undertaking, except for the periods when public heat and water supply systems are cut off for the purposes of repair, technical support or any other reason beyond control of the Landlord or except for the period when such systems are cut off in the event of emergency or necessary major repair performed by the Landlord.
+ 
+6.3.17.     Cold water supply at any time except when public water supply systems are cut off by the city authorities for the purposes of repair, technical support or any other reason beyond control of the Landlord or except for the periods when such systems are cut off in the event of emergency.
+ 
+6.3.18.     Ensuring access of the Tenants cars in the territory adjacent to the Building. The following number of Tenants cars shall not be placed in the territory adjacent to the Building simultaneously:
+ 
+·      From January 01, 2009 until July 01, 2009  more than two hundred forty (240) of the Tenants cars.
+ 
+·      From July 01, 2009 until the expiration of the Lease Term  more than three hundred ninety (390) cars, including on the above-ground part thereof  one hundred fifty (150) cars.
+ 
+6.3.19.     Snow and icicles removal on the roof and other parts of the Building and in the territory adjacent to the Building ensuring free access of people and cars to the Building.
+ 
+6.3.20.     Video monitoring of the territory adjacent to the Building, including the territory of the underground stores of the Building.
+ 
+9
+
+
+
+ 
+6.3.21.     Installment of the Tenants technical equipment in places agreed by the Parties with in ten (10) business days as from the relevant technical equipment is provided by the Tenant to the Landlord.
+ 
+6.4.          Upon written consent of the Parties the Landlord may for extra fees render to the Tenant services not provided by the Agreement.
+ 
+6.5.          Monitor compliance with the fire protection rules in the Building and in the adjacent territory.
+ 
+6.6.          Promptly notify the Tenant if the Landlord or its authorized person learns about any future cutoff of electricity, water or heating supply systems etc., about any actions of the Landlord which may influence on use of the Premises by the Tenant, as well as promptly notify the Tenant about emergencies happened in the Building.  The Landlord or its authorized person shall use best possible efforts to restart quickly electricity, water or heat supply and restore support of the Premises in accordance with the Agreement.
+ 
+6.7.          Organize and ensure technical record-keeping of improvements in the State Unitary Enterprise Technical Inventory Bureau of Moscow at the Tenants expense in case the Tenant upon the Landlords consent performs improvements to the existing constructions of the Building/Premises or Improvements being reconstruction (alteration).
+ 
+6.8.          Organize functioning of the corporate restaurant for the Tenants employees in the Building. In order to order catering services the Tenant shall address directly to the food service provider.
+ 
+6.9.          Ensure fit-out of the Common Areas indicated in Exhibit 1 hereto in accordance with the Construction Project  not later than July 01, 2009.
+ 
+The Landlord shall have the right to:
+ 
+6.10.        Enter to the Premises after a written notice delivered to the Tenant at least twenty four (24) hours before the prospective visit in presence of the Tenants representatives and in accordance with the procedure agreed by the Parties in order to minimize adverse effect for the Tenant in the following cases:
+ 
+·      to show the Premises to third persons (representatives of credit institutions, appraisals and other business partners of the landlord during the Lease Term, as well as to the prospective tenants 6 months before expiration of the Lease Term);
+ 
+·      to examine the Premises to make sure the Tenant performs its obligations under the Agreement (at most once a quarter);
+ 
+·      to connect to utilities, sewages, pipes and other conducting equipment and connections unless it is possible to be done without entering the Premises;
+ 
+·      to maintain engineering systems of the Building and the Premises: examination, technical support, repair, alterations to construction, control, renewal and substitution of connection units and connection to any engineering and communication systems unless it is possible to be done without entering the Premises.
+ 
+6.11.        In special cases, in case of emergency and/or direct danger to the Building/Premises or persons therein, the Landlord and/or its authorized persons shall be entitled to enter the Premises at any time without notifying the Tenant in order to prevent or eliminate consequences of the emergency.
+ 
+6.12.        Demand prompt and full deposit of the Lease Payment and all other payments specified by the Agreement.
+ 
+10
+
+
+
+
+ 
+6.13.        Sell or otherwise transfer the ownership title to the Building, in whole or in part, with preliminary written notification of the Tenant about such transaction in accordance with Clause 6.44 of the Agreement.
+ 
+6.14.        Alter engineering systems constructions of the Building/Premises, reconstruct the Building. Such actions performed by the Landlord shall not worsen conditions of using the Premises by the Tenant.
+ 
+6.15.        In case the Tenant leaves any property in the territory of the Premises after the Lease Term expired and such property is not related to improvements specified in Clause 6.17 of the Agreement, the Landlord shall be entitled to attach such property and acting in the interests and at the expense of the Tenant put the property into safe custody for the period of three (3) calendar months. The Tenant shall reimburse the Landlord for all expenses related to move-out and/or placement of such property into safe custody. The Landlord shall not be responsible for safety of such property belonged to the Tenant after three (3) months expired.
+ 
+6.16.        Set rules of conduct obligatory for all tenants of the Complex including the Building (hereinafter referred to as the Rules of Conduct) including: fire safety rules, maximum load of heavy objects placed in offices, rules of access to the Building and to the territory adjacent to the Complex, rules of cars access to the territory adjacent to the Complex, including external and internal parking lots, rules of construction works in premises, rules of bring-in and bring-out of large-sized objects and furniture belonged to tenants, requirements on protection of the Landlords property and forms of claims and appeals to the Landlords maintenance services. The abovementioned rules unified for all tenants shall be documented in writing, adopted by the Landlords authorized person and communicated to the Tenant and are binding on all tenants of the Complex.
+ 
+The Landlord shall be entitled to amend the abovementioned rules. Such amendments may not worsen conditions of using the Premises by the Tenant including reduction of the area used by the Tenant. The amendments shall be binding both on the Tenant and its business partners and visitors upon expiration of five (5) business days as from the moment copies of such rules as amended are transferred to the Tenant against receipt.
+ 
+6.17.        The Landlord shall have the right to (1) Improvements; (2) detachable improvements of the Premises performed by the Tenant in accordance with the Fit-Out Works Project agreed with the Landlord provided such detachable improvements are left by the Tenant in the Premises after they have been returned to the Landlord under the Return Act. This clause does not cover interior items and furniture.
+ 
+The Tenant shall not be reimbursed for expenses to any Improvements performed, unless otherwise is expressly provided by the Agreement.
+ 
+The Tenant shall perform the following obligations:
+ 
+6.18.        Accept the Premises under the Transfer and Acceptance Act in accordance with the Agreement.
+ 
+6.19.        Use the Premises as administrative office for its staff to perform activities not prohibited by the current laws of the Russian Federation. The Tenant shall have in the Premises licenses and permits related to its activities and prolong them as and when necessary for the effective term of this Agreement. The Tenant shall be entitled to use the Premises twenty-four hours per day seven days per week in accordance with the Agreement.
+ 
+6.20.       Use the Premises only for the Target Purpose set out in the Agreement.
+ 
+11
+
+
+
+
+ 
+6.21.        The Tenant shall keep the Premises in proper technical, sanitary and fire safety condition and shall be responsible for proper technical, sanitary and fire safety condition of the Premises including without limitation before controlling authorities.
+ 
+6.22.        The Tenant shall independently and at its own expense maintain the Premises i.e. to keep the Premises in condition specified in the Transfer and Acceptance Act including walls painting, substitution of false ceiling plates, locks, door handles and door holders; substitution of electric and technical fittings including outlets, switches, luminaries; substitutions of lamps; substitution of floor pavement, sanitary fixtures, fittings and accessories, other interior and fit-out elements.
+ 
+6.23.        In case the Tenant considers necessary to alter any existing constructions and engineering systems of the Premises/Building, the Tenant, while preparing technical specifications, shall agree with the Landlord all necessary improvements, ensure drafting of the Fit-Out Works Project by a specialized organization and present such project to the Landlord for approval.
+ 
+Within ten (10) business days as from the date such Fit-Out Works Project is submitted the Landlord shall approve it or reasonable refuse in writing to approve it indicating the requirements to be complied with by the Tenant so that the Project is approved. In case within the term specified above the Landlord has not submitted to the Tenant either approved Fit-Out Works Project or a reasoned refusal, the Fit-Out Works Project shall be deemed approved by the Landlord.
+ 
+The Tenant shall ensure observation of all the safety and control standards, including by persons performing works, in the process of the Fit-Out Works by virtue of the Fit-Out Works Project adopted by the Landlord and within five (5) business days after the works are completed submit executive documentation to the Landlord.
+ 
+The Tenant shall agree under stipulated procedure, including with the Inter-Departmental Commission, the Fit-Out Works performed by the Tenant and upon results of such agreement submit to the Landlord one original of the floor-by-floor plan of the Premises, the room-by-room schedule and the form 1A. In case within thirty (30) business days after the Landlord received a written request to provide the Tenant with the documents necessary for the Tenant in accordance with the current regulations to obtain the abovementioned agreements, the Landlord shall obtain such agreement by its own efforts.
+ 
+6.24.        While performing its activities observe technical safety rules regarding working conditions and labor protection working with power equipment, any installations, devices and equipment which are sources of special danger, as well as ensure its staff and/or engaged persons having the relevant access permit and other permits for performance of works concerned with the possible harm to peoples health. The Landlord shall not be responsible for breach by the Tenant of the technical safety rules while performing its activities by the Tenant and for causation of harm to the property or any persons health. The Tenant is fully liable for such harm.
+ 
+6.25.        In case any public authority imposes a fine or any other penalties on the Tenant in connection with its direct use of the Premises or to that end issues an instruction or a notification as a result of any action or omission of the Tenant violating the laws (alteration of the Premises not agreed with the executive public authorities, placement of sign plates outside the Premises, use of the Buildings face, functional use of the Premises etc.) and addresses them to the Landlord, the Landlord shall promptly submit such notifications, claims and fines to the Tenant, and the Tenant shall fully reimburse the Landlord within five (5) business days as from the date of an invoice issued by the Landlord and confirming documents for such fines and promptly take measures to remedy such breaches, bring the Premises in condition in accordance with such
+ 
+12
+
+
+
+
+ 
+instruction or notification and take measures to avoid such incidents in the future. In case the Tenant challenges the abovementioned decisions and/or actions of the public authority in the court and such decision on imposing penalties is fully reversed and all the relevant payments are returned to the Tenant, the Landlord shall return to the Tenant wrongfully collected amount of money within five (5) banking days as from the date of funds deposit to the Landlords bank account.
+ 
+6.26.        Appoint persons responsible for general fire safety condition of the Premises and submit to the Landlord the relevant order document within fourteen (14) calendar days as from the date of the Transfer and Acceptance Act.
+ 
+6.27.        The Tenant shall be fully responsible for all its property including its staffs property in the Premises as well as for safety of its staff and visitors in the Premises.
+ 
+6.28.        Observe rules of conduct including access control in the Building set out by the Landlord under Clause 6.16 of the Agreement.
+ 
+6.29.        Avoid storage of garbage, waste and waste paper and other rubbish in lounge and lobby areas, hallways, at the entrance to the Premises and in other places in the Building outside the Premises. Storage of garbage shall be performed by the Tenant in special places of the Complex and under procedure set out by the Landlord.
+ 
+Treat the Building and the Premises with due care.
+ 
+6.30.        In case while using the Premises the Tenant damaged the Premises and/or any part of the Building the Tenant shall fully reimburse the Landlord for the actual damage caused. The actual damage is calculated in accordance with Clause 10.7 of the Agreement.
+ 
+6.31.        Avoid bringing to the Building where the Premises are located and store, including temporary locating in the Premises, objects and substances which may cause harm to the property, life and health of people, ordinary working conditions and presence in the Building: explosive, inflammable, combustible substances, narcotic and poisonous substances, ammunition and weapon including parts thereof; using sound- and radio-emitting and vibration installments of characteristics exceeding standards; congest electric and other supply systems, install devices and equipment if maintenance thereof may lead to excess of powers established by the Landlord for the Tenant: 1650 kW. The Tenant shall avoid such actions to be performed by its staff, visitors and third persons engaged to work.
+ 
+6.32.        Avoid assignment of the lease or contribute the lease to the charter capital of companies and other organizations or pledge the lease or somehow encumber the lease.
+ 
+6.33.        The Tenant hereby agrees smoking in the Building and the Complex is allowed only in special places and shall ensure observance the smoking order in the Building and in the Complex by its employees and visitors as well as maintain order in such special places.
+ 
+6.34.        Avoid hiring the Landlords employees or employees of the Landlords maintaining company to perform any work and/or to provide any services on single or permanent basis without written consent of the Landlord.
+ 
+6.35.       In the event of fixing jalousie and other big objects which can be seen outside the Building out of windows of the Premises, agree the color and visual appearance of jalousie and other big objects. In the case such jalousie or big objects are fixed without the Landlords consent they shall be removed at the Tenants expense within the period set out by the Landlord.
+ 
+The Tenant shall have the right to:
+ 
+6.36.        Possess and use of the Premises without interference to its affaires by the Landlord if the Tenant observes the Agreement.
+ 
+13
+
+
+
+
+ 
+6.37.        Place its advertising and information sign plate on the Building on conditions preliminarily agreed with the Landlord including place of the sign plate, size and settlement procedure for the placement of such sign plate by the Tenant. The Tenant shall be entitled to place its sign plates in the Building (on the door of the Premises of the Tenant and/or on the information tableau, if any, in the lobby of the relevant entrance of the Building) in accordance with the standards of the Building and on prior written consent of the Landlord. The Tenant shall be entitled to place a corporate sign plate at the entrance to the Building only on written permit issued by the Landlord.
+ 
+The Tenant is responsible for maintenance and service of its sign plates excluding the information tableau in the lobby of the relevant entrance of the Building.
+ 
+On expiration of the Lease Term or on premature termination of the Agreement the Tenant shall at its own expense demount all its sign plates, bring them out of the Building and eliminate all the damage caused to the Building by installment and removal of such sign plates. The Landlord shall be entitled to demount independently and bring out the aforementioned sign plates without paying any compensation to the Tenant but the Tenant shall reimburse the Landlord for all such expenses.
+ 
+6.38.        Use the address of the Premises as its location address.
+ 
+6.39.        Upon prior consent of the Landlord make agreements with special guarding agencies in order to ensure security of the Premises and access control to the Premises. The Tenant shall submit the request to the Landlord for agreement of the guarding agency to which the Landlord shall give its consent or a reasoned refusal within five (5) business days as from the date of receipt of such request.
+ 
+6.40.        Sublease the Premises to any third party only on written consent of the Landlord. The Landlord shall be entitled to refuse the Tenant to give its consent for sublease only in the following cases (if the Premises are subleased to individuals and/or legal entities):
+ 
+·      main activity is charity and/or religious activities;
+ 
+·      commercial activity is criminal;
+ 
+·      activities are connected with weapon bearing and/or storage;
+ 
+·      for establishment of a gambling business object;
+ 
+·      activity is connected with rush of customers;
+ 
+·      working place of every employee is less than 4 square meters of useful space;
+ 
+·      provision of security services;
+ 
+·      activity is implementation of social and entertaining events;
+ 
+·      activities are competitive with those of the Landlord or with the companies of the Landlords group: development, hotel and/or land business;
+ 
+·      holding an unfriendly position towards the Landlord.
+ 
+The Landlord shall in writing reason its refusal to present consent for sublease within ten (10) business days as from the request on sublease is received from the Tenant and shall render assistance in finding other subtenant.
+ 
+The Parties have agreed that in case the Landlord does not present reasoned answer within the period specified here above, the Tenant shall be entitled to sublease the Premises to the counterparty in respect of which the Tenant submitted the documents to the Landlord.
+ 
+14
+
+
+
+
+ 
+This clause does not cover the sublease agreements concerning all the Premises or a part thereof between Yandex LLC and PS Yandex.Money LLC (Taxpaer Identification Number 7736554890; Principle State Registration Number 1077746365113) or Yandex.Probki LLC (Taxpayer Identification Number 7707666550; Principle State Registration Number 1087746706596).
+ 
+6.41.        The Tenant shall have the preemptive right to lease other areas in the Building against companies not leasing or leasing the Premises in the Building under equal commercial terms. The Landlord shall notify the Tenant about available areas in the Building, and the Tenant shall within thirty (30) calendar days as from receipt of the Landlords notification confirm its intention to lease indicated areas or refuse to lease them. In case the Tenant has not submitted its intention to lease the areas within the term specified here above such silence shall be deemed waiver of the preemptive right to lease the areas in the Building.
+ 
+6.42.        The Parties have agreed the Tenant shall have the preemptive right to lease premises during the second phase of the Building construction with approximate useful area of eleven thousand four hundred seventy (11 470) square meters. The Tenant shall within thirty (30) calendar days as from receipt of the Landlords notification, which the Landlord may submit to the Tenant since February 01, 2009, confirm its intention to lease the indicated areas or waive of such right. In case the Tenant has not submitted its intention to lease the areas within the term specified here above such silence shall be deemed waiver of the preemptive right to lease the areas specified herein.
+ 
+6.43.        The Parties have agreed the Tenant shall have the preemptive right to lease premises of the of the office building with approximate leased area one thousand six hundred forty point nine (1 640.9) square meters during the first phase of the Building construction (hereinafter referred to as the Office Building) upon expiration of five (5) years as from the Lease Term commenced. The Landlord shall notify the Tenant about availability of the Office Building, and the Tenant shall within thirty (30) calendar days as from receipt of the Landlords notification confirm its intention to lease the Office Building or waive of the right to lease it. In case the Tenant has not submitted its intention to lease the areas within the term specified here above such silence shall be deemed waiver of the preemptive right to lease the Office Building.
+ 
+6.44.        In case the Landlord intends to sell the Building/Premises or otherwise transfer the Building/Premises to any third party, the Tenant shall have the preemptive right to purchase the Building under the terms of an offer to any third person. The Landlord shall notify the Tenant in writing about the prospective transfer of the Building/Premises indicating sale terms and enclosing a copy of the letter of intent signed by the prospective purchaser of the Building. The abovementioned documents shall be submitted by the Landlord to the Tenant under signed receipt and shall be sent as a registered mail with a list of enclosures. The Tenant shall within fifteen (15) calendar days as from the abovementioned notification of the Landlord submit to the Landlord its written consent to perform a transaction on purchase of the Building under terms equal or better than those specified in the Landlords notification or waive of such transaction. Such documents shall be submitted to the Landlord under signed receipt and sent by the registered mail with a list of enclosures. In the event of failure to comply with the aforementioned terms the preemptive right mentioned herein shall be deemed terminated.
+ 
+Article 7.               Fit-Out and Permanent Improvements of Premises
+ 
+7.1.          The Landlord shall transfer to the Tenant the Premises fit out under the Fit-Out Works project agreed by the Parties in accordance with the Agreement.
+ 
+15
+
+
+
+ 
+7.1.1.       The Landlord shall with in the period prior to February 15, 2009 submit to the Tenant the Fit-Out Works Project of the Premises specified in Clause 2.1.2 of the Agreement.
+ 
+7.2.          The Landlord shall not be responsible for quality (defects) of the Fit-Out Works provided the Tenant has the right to act as the Technical controller and to participate in acceptance of the Fit-Out Works in accordance with agreements made between the Tenant and its contractors on performance of the Fit-Out Works in the Premises under the Fit-Out Works Project. Provided the Tenant has not exercised its right of the Technical controller including the right to participate in acceptance of the Fit-Out Works, the Landlord shall not be liable as well for the quality (defects) of the Fit-Out Works. If there are any defects in the Fit-Out Works the Tenant shall make a claim to eliminate them directly to the contractor performed the Fit-Out Works in the Premises under the Fit-Out Works Project; such right of the Tenant shall be provided in the contractor agreements by the Landlord. The Landlord shall render to the Tenant the necessary assistance in making claims to the contractor preformed the Fit-Out Works in the Premises.
+ 
+7.3.          The Tenant shall control agreement of the Fit-Out Works in the Premises with the Inter-Departmental Commission and other relevant authorities which is performed by the contractor under the agreement on the Fit-Out Works made between the Landlord and the Tenant. The Tenant shall be responsible before the Landlord for agreement with the Inter-Departmental Commission and other relevant authorities of the Fit-Out Works in the Premises including performed under work contracts made by the Landlord (the Landlord shall provide in such contracts the Tenants right to act as the Technical controller). The Tenant shall notify and agree with the Landlord procedure and terms of the Fit-Out Works in the Premises as well as changes if any of such procedure and terms.
+ 
+7.4.          Within three (3) business days after the Fit-Out Works in the Premises are completed the Parties shall draft a supplement to the Transfer and Acceptance Act or other document in the form offered by the Landlord where shall indicate the condition of the Premises adjusted for the Fit-Out Works.
+ 
+7.5.          The Tenant shall not within the Lease Term perform Improvements of the Premises without prior written consent of the Landlord including:
+ 
+·      alteration (including demounting and/or installment of partitions) and re-fitment of the Premises;
+ 
+·      fitment and/or walling up of existing door and window embrasures;
+ 
+·      demounting and/or installment of window frames and glass units;
+ 
+·      demounting and/or assembling, change of location of internal engineering systems, water plumbing and drainage systems, heating, electricity supply systems, ventilation and cooling systems, fire alarm etc. except for weak current circuit;
+ 
+·      works related to the Building face change;
+ 
+·      works related to the installment of outdoor advertisements;
+ 
+·                 assembling and/or demounting of other construction elements, systems, networks, equipment, fittings related to the Building which cannot be eliminated (demounted) without harm to the Premises, their construction elements and visual appearance and elimination of which will demand future construction works and/or a large amount of fit-out works in order to bring the Premises to proper condition.
+ 
+7.6.          The abovementioned alterations of the Premises shall be agreed under the procedure stipulated by the laws of the Russian Federation, regulations of Moscow and the Fit-
+ 
+16
+
+
+
+
+ 
+Out Works and other Non-Ordinary Repairs of the Premises Completion Rules (Exhibit 4 to the Agreement). The Tenant shall not be entitled to proceed to works before the Landlords consent to works completion is obtained under procedure stipulated in Clause 6.23 of this Agreement. The Tenant shall submit the documents confirming agreement of works by the Tenant under the procedure stipulated by the laws, including with the Inter-Departmental Commission, within six (6) months as from the completion date of such works. Within three (3) business days after the works on performing Improvements are completed the Parties shall draft a supplement to the Transfer and Acceptance Act of the Premises or other document in the form offered by the Landlord where the condition of the Premises adjusted for the works performed shall be indicated.
+ 
+7.7.          Costs of any Improvements of the Premises performed by the Tenant or by third persons engaged by the Tenant shall not be reimbursed by the Landlord irrespective of availability or absence of the Landlords written consent to perform such Improvements of the Premises unless otherwise is expressly stipulated by the Agreement.
+ 
+Article 8.               Price of Agreement and Settlement Procedure
+ 
+8.1.          All payments under this Agreement shall be performed in rubles of the Russian Federation at the rate of US dollar in accordance with Clause 8.2 of the Agreement.
+ 
+8.2.          The Parties to the Agreement have stipulated that for purposes of the Lease Payment and other payments (in US dollars) calculation effected by the Parties under this Agreement, unless otherwise is set out hereunder, ruble equivalent of one (1) US dollar is equal to US dollar rate against Russian ruble defined by the Central Bank of the Russian Federation on the date of invoice issue on the relevant payment. The Lease Payment under the Agreement is calculated in accordance with this Clause.
+ 
+8.3.          The Lease Payment shall be calculated as from the date the Transfer and Acceptance Act is signed by the Parties.
+ 
+8.4.          Accounting period for the Lease Payment has been defined by the Parties as one calendar quarter.
+ 
+8.5.          For the period from January 01, 2009 until December 31, 2009 the Lease Payment for use of the Premises the area of which is determined under Clause 2.1.1 of the Agreement, including Utility Charges (except for electric power supply services to the Premises), Maintenance Costs and services costs for installment of the Tenants technical equipment (Clause 1.11 hereof), amounts to one million three hundred forty thee thousand seven hundred forty three point zero five (1 343 743.05) US dollars per quarter.
+ 
+8.6.          For the period until December 31, 2009 the Lease Payment for use of the Premises the area of which is determined under Clause 2.1.2 of the Agreement, including Utility Charges (except for electric power supply services to the Premises), Maintenance Costs and service costs for installment of the Tenants technical equipment (Clause 1.11 hereof), amounts to two millions three hundred eighty three thousand five hundred fifty eight point zero (2 383 558.00) US dollars per quarter.
+ 
+8.7.                             The Lease Payment for the first accounting period shall be calculated by the following formula:
+ 
+17
+
+
+
+
+ 
+
+
+
+Lease Payment per quarter 
+
+  
+
+  
+
+  
+
+Amount of calendar days in the first accounting period calculated from the date of the Transfer and Acceptance Act until the last calendar day of the accounting period  
+
+
+Amount of calendar days in the accounting period when the Transfer and Acceptance Act is signed 
+
+  
+
+X 
+
+    
+ 
+8.8.          Provided the Lease Term expires before the end of the accounting period, the Lease Payment for the last accounting period shall be calculated by the following formula:
+ 
+
+
+
+Lease Payment per quarter 
+
+  
+
+  
+
+  
+
+Amount of calendar days in the first accounting period calculated from the date of the Transfer and Acceptance Act until the last calendar day of the accounting period  
+
+
+Amount of calendar days in the accounting period when the Lease Term commenced 
+
+  
+
+X 
+
+    
+ 
+8.9.          The Parties have agreed that within the period from January 01, 2009 until December 31, 2009 the Tenant shall effect the Lease Payment in the following amount equal to:
+ 
+8.9.1.       Seventeen millions nine hundred fifty three thousand nine hundred twelve point forty six (17 953 912.46) US dollars within five (5) business days after the public registration of the Agreement;
+ 
+8.9.2.       Five millions eighty four thousand seven hundred forty five point eighty five (5 084 745.85) US dollars on or prior to January 31, 2009;
+ 
+8.9.3.       One million six hundred ninety four thousand nine hundred fifteen point twenty five (1 694 915.25) US dollars on or prior to February 28, 2009;
+ 
+8.9.4.       Two millions six hundred ninety nine thousand six hundred seventy five point twenty six (2 699 675.26) US dollars on or prior to March 31, 2009;
+ 
+8.9.5.       One million six hundred ninety four thousand nine hundred fifteen point twenty five (1 694 915.25) US dollars on or prior to April 30, 2009;
+ 
+8.9.6.       One million six hundred ninety four thousand nine hundred fifteen point twenty five (1 694 915.25) US dollars on or prior to May 31, 2009;
+ 
+8.9.7.       Two millions two hundred fifty eight thousand thee hundred seventy four point forty nine (2 258 374.49) US dollars on or prior to June 30, 2009;
+ 
+8.9.8.       Five hundred sixty three thousand four hundred fifty nine point twenty four (563 459.24) US dollars on or prior to September 30, 2009;
+ 
+8.10.        Within the period from January 01, 2010 until December 31, 2018 the Lease Payment consists of the base rent and additional rent.
+ 
+8.10.1.     The base rent includes payment for possession and use of the Premises and service fees for installment of the Tenants technical equipment (Clause 1.11 of the Agreement).
+ 
+8.10.2.     The base rent amounts to the following:
+ 
+
+
+
+Accounting Period 
+
+  
+
+Base Rent Amount (US dollars)  
+
+
+2010, 1st quarter 
+
+  
+
+3 292 252.77 
+
+  
+
+Three millions two hundred ninety two thousand two hundred fifty two point seventy seven US dollars  
+
+
+2010, 2nd quarter 
+
+  
+
+3 364 555.27 
+
+  
+
+Three millions three hundred sixty four thousand five hundred fifty five point twenty seven US dollars   
+ 
+18
+
+
+
+
+ 
+
+
+
+2010, 3rd quarter 
+
+  
+
+3 997 455.27 
+
+  
+
+Three millions ninety hundred ninety seven thousand four hundred fifty five point twenty seven US dollars  
+
+
+2010, 4th quarter 
+
+  
+
+3 997 455.27 
+
+  
+
+Three millions ninety hundred ninety seven thousand four hundred fifty five point twenty seven US dollars  
+
+
+2011, 1st quarter 
+
+  
+
+4 040 727.52 
+
+  
+
+Four millions forty thousand seven hundred twenty seven point fifty two US dollars  
+
+
+2011, 2nd quarter 
+
+  
+
+4 115 199.09 
+
+  
+
+Four millions one hundred fifteen thousand one hundred ninety nine point zero nine US dollars  
+
+
+2011, 3rd quarter 
+
+  
+
+4 115 199.09 
+
+  
+
+Four millions one hundred fifteen thousand one hundred ninety nine point zero nine US dollars  
+
+
+2011, 4th quarter  
+
+  
+
+4 115 199.09 
+
+  
+
+Four millions one hundred fifteen thousand one hundred ninety nine point zero nine US dollars  
+
+
+2012, 1st quarter 
+
+  
+
+4 160 169.00 
+
+  
+
+Four millions one hundred sixty thousand one hundred sixty nine point zero US dollars  
+
+
+2012, 2nd quarter 
+
+  
+
+4 236 874.72 
+
+  
+
+Four millions two hundred thirty six thousand eight hundred seventy four point seventy two US dollars  
+
+
+2012, 3rd quarter 
+
+  
+
+4 236 874.72 
+
+  
+
+Four millions two hundred thirty six thousand eight hundred seventy four point seventy two US dollars  
+
+
+2012, 4th quarter 
+
+  
+
+4 236 874.72 
+
+  
+
+Four millions two hundred thirty six thousand eight hundred seventy four point seventy two US dollars  
+
+
+2013, 1st quarter 
+
+  
+
+4 283 613.18 
+
+  
+
+Four millions two hundred eighty three thousand six hundred thirteen point eighteen US dollars  
+
+
+2013, 2nd quarter 
+
+  
+
+4 362 620.07 
+
+  
+
+Four millions three hundred sixty two thousand six hundred twenty point zero seven US dollars  
+
+
+2013, 3rd quarter 
+
+  
+
+4 362 620.07 
+
+  
+
+Four millions three hundred sixty two thousand six hundred twenty point zero seven US dollars  
+
+
+2013, 4th quarter 
+
+  
+
+4 362 620.07 
+
+  
+
+Four millions three hundred sixty two thousand six hundred twenty point zero seven US dollars  
+
+
+2014, 1st quarter 
+
+  
+
+4 411 201.11 
+
+  
+
+Four millions four hundred eleven thousand two hundred one point eleven US dollars  
+
+
+2014, 2nd quarter 
+
+  
+
+4 492 578.21 
+
+  
+
+Four millions four hundred ninety two thousand five hundred seventy eight point twenty one US dollars  
+
+
+2014, 3rd quarter 
+
+  
+
+4 492 578.21 
+
+  
+
+Four millions four hundred ninety two thousand five hundred seventy eight point twenty one US dollars  
+
+
+2014, 4th quarter 
+
+  
+
+4 492 578.21 
+
+  
+
+Four millions four hundred ninety two    
+ 
+19
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+  
+
+  
+
+thousand five hundred seventy eight point twenty one US dollars  
+
+
+2015, 1st quarter 
+
+  
+
+4 543 079.14 
+
+  
+
+Four millions five hundred forty three thousand seventy nine point fourteen US dollars  
+
+
+2015, 2nd quarter 
+
+  
+
+4 626 897.54 
+
+  
+
+Four millions six hundred twenty six thousand eight hundred ninety seven point fifty four US dollars  
+
+
+2015, 3rd quarter 
+
+  
+
+4 626 897.54 
+
+  
+
+Four millions six hundred twenty six thousand eight hundred ninety seven point fifty four US dollars  
+
+
+2015, 4th quarter 
+
+  
+
+4 626 897.54 
+
+  
+
+Four millions six hundred twenty six thousand eight hundred ninety seven point fifty four US dollars  
+
+
+2016, 1st quarter 
+
+  
+
+4 679 399.07 
+
+  
+
+Four millions six hundred seventy nine thousand three hundred ninety nine point zero seven US dollars  
+
+
+2016, 2nd quarter 
+
+  
+
+4 765 732.04 
+
+  
+
+Four millions seven hundred sixty five thousand seven hundred thirty two point zero four US dollars  
+
+
+2016, 3rd quarter 
+
+  
+
+4 765 732.04 
+
+  
+
+Four millions seven hundred sixty five thousand seven hundred thirty two point zero four US dollars  
+
+
+2016, 4th quarter 
+
+  
+
+4 765 732.04 
+
+  
+
+Four millions seven hundred sixty five thousand seven hundred thirty two point zero four US dollars  
+
+
+2017, 1st quarter 
+
+  
+
+4 820 318.46 
+
+  
+
+Four millions eight hundred twenty thousand three hundred eighteen point forty six US dollars  
+
+
+2017, 2nd quarter 
+
+  
+
+4 909 241.41 
+
+  
+
+Four millions nine hundred nine thousand two hundred forty one point forty one US dollars  
+
+
+2017, 3rd quarter 
+
+  
+
+4 909 241.41 
+
+  
+
+Four millions nine hundred nine thousand two hundred forty one point forty one US dollars  
+
+
+2017, 4th quarter 
+
+  
+
+4 909 241.41 
+
+  
+
+Four millions nine hundred nine thousand two hundred forty one point forty one US dollars  
+
+
+2018, 1st quarter 
+
+  
+
+4 966 000.78 
+
+  
+
+Four millions nine hundred sixty six thousand point seventy eight US dollars  
+
+
+2018, 2nd quarter 
+
+  
+
+5 057 591.42 
+
+  
+
+Five millions fifty seven thousand five hundred ninety one point forty two US dollars  
+
+
+2018, 3rd quarter 
+
+  
+
+5 057 591.42 
+
+  
+
+Five millions fifty seven thousand five hundred ninety one point forty two US dollars  
+
+
+2018, 4th quarter 
+
+  
+
+5 057 591.42 
+
+  
+
+Five millions fifty seven thousand five hundred ninety one point forty two US dollars   
+ 
+The base rent is fixed and may not be changed during the Lease Term unless otherwise is expressly stipulated by the Agreement.
+ 
+20
+
+
+
+ 
+Payment of the base rent shall be performed by the Tenant in accordance with the following schedule:
+ 
+
+
+
+Period 
+
+  
+
+Payments (US dollars)  
+
+
+2010, 1st quarter 
+
+  
+
+128 410.96 
+
+  
+
+One hundred twenty eight thousand four hundred ten point ninety six US dollars  
+
+
+2010, 2nd quarter 
+
+  
+
+200 713.46 
+
+  
+
+Two hundred thousand seven hundred thirteen point forty six US dollars  
+
+
+2010, 3rd quarter 
+
+  
+
+833 613.46 
+
+  
+
+Eight hundred thirty three thousand six hundred thirteen point forty six US dollars  
+
+
+2010, 4th quarter 
+
+  
+
+833 613.46 
+
+  
+
+Eight hundred thirty three thousand six hundred thirteen point forty six US dollars  
+
+
+2011, 1st quarter 
+
+  
+
+3 701 744.47 
+
+  
+
+Three millions seven hundred one thousand seven hundred forty four point forty seven US dollars  
+
+
+2011, 2nd quarter 
+
+  
+
+3 776 216.04 
+
+  
+
+Three millions seven hundred seventy six thousand two hundred sixteen point zero four US dollars  
+
+
+2011, 3rd quarter 
+
+  
+
+3 766 216.04 
+
+  
+
+Three millions seven hundred seventy six thousand two hundred sixteen point zero four US dollars  
+
+
+2011, 4th quarter 
+
+  
+
+3 776 216.04 
+
+  
+
+Three millions seven hundred seventy six thousand two hundred sixteen point zero four US dollars  
+
+
+2012, 1st quarter 
+
+  
+
+3 821 185.95 
+
+  
+
+Three millions eight hundred twenty one thousand one hundred eighty five point ninety five US dollars  
+
+
+2012, 2nd quarter 
+
+  
+
+3 897 891.67 
+
+  
+
+Three millions eight hundred ninety seven thousand eight hundred ninety one point sixty seven US dollars  
+
+
+2012, 3rd quarter 
+
+  
+
+3 897 891.67 
+
+  
+
+Three millions eight hundred ninety seven thousand eight hundred ninety one point sixty seven US dollars  
+
+
+2012, 4th quarter 
+
+  
+
+3 897 891.67 
+
+  
+
+Three millions eight hundred ninety seven thousand eight hundred ninety one point sixty seven US dollars  
+
+
+2013, 1st quarter 
+
+  
+
+3 944 630.13 
+
+  
+
+Three millions nine hundred forty four thousand six hundred thirty point thirteen US dollars  
+
+
+2013, 2nd quarter 
+
+  
+
+4 023 637.02 
+
+  
+
+Four millions twenty three thousand six hundred thirty seven point zero two US dollars  
+
+
+2013, 3rd quarter 
+
+  
+
+4 023 637.02 
+
+  
+
+Four millions twenty three thousand six hundred thirty seven point zero two US dollars  
+
+
+2013, 4th quarter 
+
+  
+
+4 023 637.02 
+
+  
+
+Four millions twenty three thousand six hundred thirty seven point zero two US dollars  
+
+
+2014, 1st quarter 
+
+  
+
+4 072 218.06 
+
+  
+
+Four millions seventy two thousand two hundred eighteen point zero six US dollars  
+
+
+2014, 2nd quarter 
+
+  
+
+4 153 595.16 
+
+  
+
+Four millions one hundred fifty three thousand five hundred ninety five point    
+ 
+21
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+  
+
+  
+
+sixteen US dollars  
+
+
+2014, 3rd quarter 
+
+  
+
+4 153 595.16 
+
+  
+
+Four millions one hundred fifty three thousand five hundred ninety five point sixteen US dollars  
+
+
+2014, 4th quarter 
+
+  
+
+4 153 595.16 
+
+  
+
+Four millions one hundred fifty three thousand five hundred ninety five point sixteen US dollars  
+
+
+2015, 1st quarter 
+
+  
+
+4 204 096.08 
+
+  
+
+Four millions two hundred four thousand ninety six point zero eight US dollars  
+
+
+2015, 2nd quarter 
+
+  
+
+4 287 914.49 
+
+  
+
+Four millions two hundred eighty seven thousand nine hundred fourteen point forty nine US dollars  
+
+
+2015, 3rd quarter 
+
+  
+
+4 287 914.49 
+
+  
+
+Four millions two hundred eighty seven thousand nine hundred fourteen point forty nine US dollars  
+
+
+2015, 4th quarter 
+
+  
+
+4 287 914.49 
+
+  
+
+Four millions two hundred eighty seven thousand nine hundred fourteen point forty nine US dollars  
+
+
+2016, 1st quarter 
+
+  
+
+4 340 416.02 
+
+  
+
+Four millions three hundred forty thousand four hundred sixteen point zero two US dollars  
+
+
+2016, 2nd quarter 
+
+  
+
+4 426 748.98 
+
+  
+
+Four millions four hundred twenty six thousand seven hundred forty eight point ninety eight US dollars  
+
+
+2016, 3rd quarter 
+
+  
+
+4 426 748.98 
+
+  
+
+Four millions four hundred twenty six thousand seven hundred forty eight point ninety eight US dollars  
+
+
+2016, 4th quarter 
+
+  
+
+4 426 748.98 
+
+  
+
+Four millions four hundred twenty six thousand seven hundred forty eight point ninety eight US dollars  
+
+
+2017, 1st quarter 
+
+  
+
+4 481 335.41 
+
+  
+
+Four millions four hundred eighty one thousand three hundred thirty five point forty one US dollars  
+
+
+2017, 2nd quarter 
+
+  
+
+4 570 258.36 
+
+  
+
+Four millions five hundred seventy thousand two hundred fifty eight point thirty six US dollars  
+
+
+2017, 3rd quarter 
+
+  
+
+4 570 258.36 
+
+  
+
+Four millions five hundred seventy thousand two hundred fifty eight point thirty six US dollars  
+
+
+2017, 4th quarter 
+
+  
+
+4 570 258.36 
+
+  
+
+Four millions five hundred seventy thousand two hundred fifty eight point thirty six US dollars  
+
+
+2018, 1st quarter 
+
+  
+
+4 627 017.73 
+
+  
+
+Four millions six hundred twenty seven thousand seventeen point seventy three US dollars  
+
+
+2018, 2nd quarter 
+
+  
+
+4 718 608.37 
+
+  
+
+Four millions seven hundred eighteen thousand six hundred eight point thirty seven US dollars  
+
+
+2018, 3rd quarter 
+
+  
+
+4 718 608.37 
+
+  
+
+Four millions seven hundred eighteen thousand six hundred eight point thirty seven US dollars  
+
+
+2018, 4th quarter 
+
+  
+
+4 718 608.37 
+
+  
+
+Four millions seven hundred eighteen thousand six hundred eight point thirty seven US dollars   
+ 
+22
+
+
+
+
+ 
+8.10.3.     The additional rent includes the Maintenance Costs, utility charges, costs of consumed electric power. The amount of the additional rent shall be calculated under the following procedure:
+ 
+8.10.3.1.          Electric power:
+ 
+·     electric power consumed by the Tenant in the Premises which is calculated according to metering devices fixed in the Premises;
+ 
+·     installed power in the amount approved by the Parties under Clause 6.3.15 of the Agreement.
+ 
+The costs of electric supply to the Premises shall be calculated on the basis of existing tariffs of the electric supply undertaking.
+ 
+8.10.3.2.          Utility services provided to the Premises (water, heat, drain system)  according to actual documented expenses of the Tenant.
+ 
+8.10.3.3.          Maintenance costs  according to actual documented expenses of the Tenant.
+ 
+8.11.        The Lease Payment (except for additional rent) for the second and each following period of the Lease Term shall be performed by wire transfer to the Landlords current bank account in advance on or prior to 25th day of the month precedent to the accounting period. In case the 25th day of the month of the quarter precedent to the paid quarter falls on a non-business day, the Lease Payment shall be transferred not later than on the nearest business day following the 25th day of such month.
+ 
+8.11.1.     The Lease Payment shall be performed on the ground of this Agreement and of the invoice which shall be issued by the Landlord at least five (5) business days before maturity date and delivered to the tenant within the time specified here above. In case the Landlord does not issue an invoice to the Tenant, the Tenant shall pay the relevant amount using the details in the last invoice issued by the landlord or the details specified in this Agreement.
+ 
+8.11.2.     The Lease Payment (except for the additional rent) shall be calculated quarterly in rubles at the rate defined in accordance with Clause 8.2 of the Agreement on the date of invoice for the relevant period of the Lease Term.
+ 
+8.11.3.     In case the Tenant has not by any reason received an invoice for the Lease Payment form the Landlord, the Tenant shall transfer the Lease Payment (except for the additional rent), the amount of which is calculated in rubles at the rate of US dollar against Russian ruble fixed on the date of payment by the Central Bank of the Russian Federation.
+ 
+8.11.4.     Provided the Tenant has not paid the invoice issued by the Landlord within the period stipulated by the Agreement, the Tenant shall transfer the Lease Payment the amount of which is calculated by the Landlord in rubles at the rate of US dollar against Russian ruble fixed on the date of payment by the Central Bank of the Russian Federation.
+ 
+8.12.        The additional rent shall be paid every month within five (5) business days as from the date when an invoice and copies of documents confirming the Tenants expenses are submitted by the Landlord to the Tenant.
+ 
+8.13.        The Tenant shall pay VAT in the amount set out by the laws of the Russian Federation simultaneously with the Lease Payment. In case the Russian tax law is amended somehow during the term of this Agreement, and as a result the Tenant will have to
+ 
+23
+
+
+
+
+ 
+pay other taxes related to the lease of the Premises, the Tenant shall act in accordance with the tax laws of the Russian Federation.
+ 
+8.14.        The Parties obligations to pay (Lease Payment, VAT, Security Deposit, fines and penalties and other payments stipulated by this Agreement) shall be deemed fulfilled upon deposit of money to the correspondent account of the recipients bank.
+ 
+8.15.        Unless otherwise is expressly stipulated by the relevant provision of the Agreement, all payments to be performed by the Parties hereunder including the Security Deposit, Lease Payment (its relevant parts) do not include VAT which shall be transferred by the Tenant to the Landlord over the transferred payments. If in accordance to the Russian laws VAT is applicable to the payments to be performed hereunder the amount of such payments shall be respectively increased in the amount of VAT and shall be paid in the amount including such VAT.
+ 
+8.16.        In invoices the Tenant shall indicate the purpose of payment including the number of the Agreement or the account number with the sharing of the amount provided the payment is performed by several invoices, tax amount as it is provided by the laws of the Russian Federation. If the Tenant has not indicated the payment purpose or has not shared the amount, the Landlord shall be entitled at its own discretion distribute the received amount according to the Tenants obligations with account of the Tenants debts.
+ 
+8.17.        The payment performed by any third person for the Tenant may be denied by the Landlord as performance of the Tenants obligations provided the payment order does not contain the information that the payment is performed for the Tenant (its unambiguous name) and does not indicate the payment purpose as it is specified here above.
+ 
+8.18.        Each Party shall pay its banks services at its own expense and shall be responsible for actions (omission) of its bank while performing payments under the Agreement.
+ 
+8.19.        Change of the Premises area including as a result of any alteration of the Premises does not involve increase of the Lease Payment and other payments under the Agreement.
+ 
+8.20.        The Parties hereby have agreed they may only once and only in year 2011 initiate the procedure of the Lease Payment review in the event of material change of the situation at the commercial real estate market. The Parties have set out the following procedure:
+ 
+8.20.1.     Any Party may initiate the procedure of the Lease Payment review;
+ 
+8.20.2.     The Party initiating the procedure of the Lease Payment review shall submit to the other Party a written request enclosing an opinion performed by one of the following office real estate agencies of Moscow: Jones Lang La Salle, Colliers International, or Knight Frank regarding the market price of the rent for the Premises (hereinafter referred to as the Settlement Rate. Real estate agencys services shall be paid by the Party which initiated the procedure of the Lease Payment review.
+ 
+8.20.3.     If the Settlement Rate defined in the abovementioned opinion amounts to more than one thousand fifty point zero (1050.00) US dollars or less than seven hundred five point zero (705.00) US dollars, the Parties shall agree the change of the Lease Payment. In case the Settlement Rate is between 705 US dollars and 1050 US dollars the Lease Payment shall not be changed.
+ 
+8.20.4.     In case the Party other from the Party which initiated the procedure for the Lease Payment review does not agree with the opinion presented by that Party shall be entitled within twenty (20) business days as from the request is received to present an 
+ 
+24
+
+
+
+
+ 
+opinion on the market price of the rent of the Premises performed by any other real estate agency among from those specified in Clause 8.20.2 of the Agreement (the real estate agencys services shall be paid by the Party which does not agree with the opinion presented by the Party initiating the procedure of the Lease Payment review). In case the Party does not use the right stipulated hereby, the opinion presented by the Party initiating the Lease Payment review is used to agree the Lease Payment change.
+ 
+8.20.5.     If the Settlement Rates specified in the real estate agencies opinions range less than by 3%, the average rate is used to agree the Lease Payment change. If the Settlement Rates specified in the real estate agencies opinions presented by each Party range more than 3%, the Parties shall request for an opinion regarding the Settlement Rate from the third real estate agency (its services are paid collectively by the Parties) among from those indicated in Clause 8.20.2 of the Agreement. The Settlement Rate for agreement of the Lease Payment change shall be calculated as an arithmetical average of the Settlement Rates presented by three abovementioned real estate agencies.
+ 
+8.20.6.     If the Settlement Rate calculated as it is stated here above amounts to more than one thousand fifty point zero (1050.00) US dollars or less than seven hundred five point zero (705.00) US dollars, the Lease Payment shall be changed as follows:
+ 
+8.20.6.1.            The Settlement Rate is more than one thousand fifty point zero (1050.00) US dollars:
+ 
+Increase of the Lease Payment per quarter (US dollars) = ((Settlement Rate  921) ´ 18612)/2/4
+ 
+8.20.6.2.            The Settlement Rate is less than seven hundred five (705.00) US dollars:
+ 
+Decrease of the Lease Payment per quarter (US dollars) = (721  Settlement Rate) ´ 18612/4
+ 
+The Lease Payment decrease may not exceed three hundred thirty five thousand sixteen (335 016) US dollars per quarter.
+ 
+8.20.7.     The agreement on amendments of this Agreement shall be drafted by the Party initiating the procedure of the Lease Payment review and submitted to the other Party in three (3) preliminarily signed originals. Such supplemental agreement shall be signed by the Party which received it and shall be returned to the Party which initially sent it under seal and signature of the authorized person of the Party which received it within three (3) business days as from the date of receipt.
+ 
+8.20.8.     The Lease Payment shall be changed from the next accounting period.
+ 
+Article 9.               Security Deposit
+ 
+9.1.          As a guarantee of performance of the Tenants obligations under this Agreement the Tenant undertakes to transfer to the Landlord the Security Deposit of Seven million one hundred sixteen thousand six hundred one point fifty nine (7 116 601.59) US Dollars following the procedure prescribed under Clause 9.3. hereof.
+ 
+9.1.1.       The Parties have agreed that for the purpose of transfer of the Security Deposit by the Tenant to the Landlord, the exchange rate of One (1) US Dollar shall equal RUR 27.864.
+ 
+9.1.2.       The Parties have agreed that for the purpose of return of the Security Deposit the exchange rate of One (1) Us Dollar shall equal the US Dollar rate against Russian Ruble defined by the Central Bank of the Russian Federation on the date of the return of the Security Deposit.
+ 
+9.2.          The Security Deposit ensures completion of the following obligation of the Tenant:
+ 
+25
+
+
+
+ 
+·             Tenants obligation to pay the Lease Payment and the applicable VAT;
+ 
+·             Tenants obligation to pay penalties prescribed hereunder;
+ 
+·             Tenants obligation to reimburse damages to the Premises, Building due to Tenants fault.
+ 
+9.3.          Within Ten (10) business days following the conclusion of the Agreement the Tenant undertakes to transfer the Security Deposit to the Landlord, unless other procedure for the transfer of the Security Deposit is agreed by the Parties in writing.
+ 
+9.4.          Upon Twenty (20) business days laces in payment of the Lease Payment by the Tenant the Landlord is entitled to withhold the outstanding amount of the Lease Payment, and other payments to be made in accordance with the Agreement, as well as the amount of penalties from the Security Deposit.
+ 
+9.5.          In case the Landlord withholds a sum from the Security Deposit during the Lease Term the Tenant shall transfer to the Landlord the sum required to restore the amount of the Security Deposit to the amount of the deposit before the sum was withheld within Five (5) business days following the Landlords respective written notice provided to the Tenant.  The mentioned notice shall include the following:
+ 
+9.5.1.       the amount withheld from the Security Deposit and statement of the grounds of the action;
+ 
+9.5.2.       the date when the amount was withheld;
+ 
+9.5.3.       the amount necessary to restore the Security Deposit.
+ 
+9.6.          Upon expiration of the Lease Term or preliminary termination of the Agreement, including termination due to force majeure circumstances, the Landlord within Ten (10) business days following the signing of the Return Act shall transfer to the Tenant the remaining amount of the Security Deposit (the sums payable to the Landlord pursuant to this Agreement shall be appropriately withheld).
+ 
+Article 10.            Liability of the Parties
+ 
+10.1.        In case of laches in payment the Party breaching the term of payment shall upon request of the other Party pay the penalty of 0.1% of the payment due per each day of the delay.
+ 
+10.2.        In case of Tenants breach of the Fit-Out Works and other Non-Ordinary Repairs of the Premises Completion Rules (Exhibit 4 to the Agreement), the Landlord may stop the Fit-Out Works in the Premises and terminate access to the Premises of persons performing Tenants works and of the Tenants contractor until such breach is cured.  The Landlord must inform the Tenant in writing of the termination of access to the Premises of the persons preforming Fitting-Out Works in the Premises Tree (3) days prior to such termination.
+ 
+10.3.        In case the Tenant delays payment of the Lease Payment, Security Deposit, penalties under this Agreement for a period of more than Thirty (30) calendar days from the date when the respective payment was to be made in accordance with the Agreement, the Landlord subject to written notification of the Tenant made Ten (10) business days in advance, may terminate provision of all or part of the Building maintenance services and (or) utility services (Clause 6.3 hereof).  To avoid doubt such termination of the Building/Premises maintenance services does not constitute breach of the Agreement and is means of prompt influence.  Landlords obligation to provide the Tenant with Building maintenance and (or) utility services under Article 328 of the Civil Code of Russian Federation is conditional to the Tenants payment of the Lease Payment, Security Deposit, penalties and shall not be performed until the mentioned payments are duly and fully paid.  Landlords right to terminate provision of all or part of the Building
+ 
+26
+
+
+
+
+ 
+maintenance services and (or) utility services does not limits his right to terminate the Agreement under Article 12 hereof.
+ 
+10.4.        Within 1 month form signing of this Agreement the Tenant shall at his own expense acquire and sustain third party insurance against injuries, harm to health or property damage to the third parties and the Landlord arising from Tenants fault (act or omission).  The minimal insurance amount shall equal USD 1 000 000 (One million) per each occurrence.  The Tenant shall provide the Landlord with the copy of the insurance policy of the stated liability within Fifteen (15) calendar days from the date of receipt of the Landlords relevant claim.
+ 
+10.5.        The insurance stated in Clause 10.4 hereof shall not set any franchise policy and (or) any special delays for payment of the insurance coverage unless such provision and the respective amount are agreed with the Landlord.
+ 
+10.6.        The Landlord shall insure the Building in the amount equal to its mortgage value but in no event less than Seventy (70) percent of the Buildings book value, within 1st month following the date of signing of this Agreement and shall sustain such insurance from the end of the 1st month following the signing of the Agreement to the end of the Lease Term (the insurance agreement shall cover losses caused by: fire, lightning, natural disasters, steam boiler explosions, machinery, glass damage, fall of pilot aircrafts on the property and other perils resulting in damage of the insured property).  The franchise policy for the insurance prescribed by this Clause of the Agreement, may not exceed USD 10 000.00 (Ten thousand point zero).
+ 
+10.7.        Only real losses (Article 15 of the Civil Code of Russian Federation) may be recovered in case of property damage caused by one Party to the other.  Partys obligation to recover damages (real losses) arise only if the following conditions are met:
+ 
+10.7.1.     The injured Party shall notify the other Party of the caused damages within Three (3) business days from the discovery of the stated fact and shall offer the other Party to make and act documenting the caused hart.
+ 
+10.7.2.     The Parties shall within Three (3) business days from the notification by the injured Party of the other Party of the caused damages (Clause 10.7.1. hereof) draw up compliance audit report of the damaged property stating the causes and consequences of the harm caused.  Should the Party which has caused damage refuse to make and sign the compliance audit report of the damaged property, the injured Party may make a unilateral report, and the Parties hereby agree that the contents of such report is construed to be agreed by both Parties.
+ 
+10.7.3.     Within reasonable term from the date when the caused harm is discovered and the compliance audit report is drawn up (Clause 10.7.2. of the Agreement) the injured Party shall present the other Party with an expert opinion on the estimated cost of the of the caused harm, made by a specialized and licensed organization.
+ 
+10.7.4.     Upon receipt of the expert opinion the injured Party shall forward to the other Party a certified copy thereof, as well as 2 copies of the act fixing the extent and amount of the harm caused.
+ 
+10.7.5.     The Party which has caused damages shall sign such act within Three (3) business days following its receipt or provide a reasoned refusal to sign the act.  Should the Party which has caused damages refuse to sign the act fixing the extent and amount of the harm caused, the act is deemed signed by the Parties, the Parties hereby agree that the extent of damages, fixed by the act, is deemed identified.
+ 
+10.8.        The Landlord bares no liability for the defects of the Premises which were mentioned upon conclusion of the Agreement, were stated in the Transfer and Acceptance Act and
+ 
+27
+
+
+
+
+ 
+(or) were known to the Tenant in advance, or should have been discovered by the Tenant upon transfer of the Premises.
+ 
+10.9.        In case when the Tenant cannot use the Premises (more than 10% of the Premises) for the period exceeding 24 hours due to Landlords failure to perform his obligations under the Agreement or improper performance thereof, the Lease Payment for the term shall be proportionally decreased.  Area of the Premises which cannot be used by the Tenant for Target Purpose shall be defined in the accordance with Clause 10.7 hereof.
+ 
+10.9.1.     In case when the Tenant cannot use the Premises (more than 10% of the Premises) for a period over Fourteen (14) calendar days due to Landlords failure to perform his obligations under the Agreement or improper performance thereof, than apart from proportional decrease of the Lease Payment the Landlord shall pay a fine equal to five percent (5%) of the monthly Lease Payment for the part of the Premises which cannot be used per each day when the part of the Premises cannot be used but in no event more than two monthly Lease Payments.
+ 
+10.10.      In case of breach of the conditions provided under Clauses 4.1, 6.3. (except for Clause 6.3.15.) hereof due to Landlords fault (malice, negligence) the Landlord shall pay the fine of 1/100 of the Security Deposit, stated under Clause 7.1 hereof, per each occurrence.
+ 
+10.11.      In case of breach of the conditions provided under Clause 6.3.15. hereof for a period exceeding Twenty four (24) hours due to Landlords fault (malice, negligence) Lease Payment during the first five days of failure to perform the stated obligation shall be reduced by 1/50 of the Lease Payment per each day, and by 1/15 of the Lease Payment per each day starting from the sixth day.
+ 
+10.11.1.   In case breach of the conditions provided under Clause 6.3.15 hereof continues for more than Twenty (20) calendar days, the Tenant is entitled to unilateral termination of the Agreement.  In this case apart from the penalties provided under Clause 10.11 hereof, the Landlord shall pay a fine in the amount of RUR 5 000 000.00 (Five million).
+ 
+10.12.      Unless provided otherwise, in case of early termination of the Agreement by the Tenant due to Landlords faults (including Clause 12.5 hereof) the Landlord subject to the Tenants request shall pay the exclusive penalty equal to Four (4) Lease Payments fixed by the Parties for the period when early termination of the Agreement occurs.
+ 
+10.13.      Unless provided otherwise, in case of early termination of the Agreement due to Tenants faults, the Tenant subject to the Landlords request shall pay the exclusive penalty equal to USD 5 000 000 (Five million).
+ 
+10.14.      All penalties provided under this Agreement shall accrue from the date the respective claim is issued by the Party.
+ 
+10.15.      Payment of penalties does not release the Tenant from other obligations under this Agreement and from the obligation to cure existing breach.
+ 
+10.16.      In cases of Parties failure to perform or undue performance which are not provided under the Agreement, the Parties shall be liable under the relevant legislation of Russian Federation.
+ 
+10.17.      Starting from January 01, 2010, should the Lease Payment for the next quarter of the Lease Term exceed 1.75% (one point seventy five percent) of the Tenants consolidated proceeds, for the preceding fiscal year, calculated per US GAAP standards and confirmed by an auditors opinion, the Tenant may unilaterally terminate part of the Agreement pertaining to the Premises with the total area not exceeding 8 100.00 (Eight thousand one hundred) square meters.  Penalties prescribed by the Agreement shall not apply.
+ 
+28
+
+
+
+
+ 
+10.17.1.   Within 90 calendar days the receipt of the Tenants notification by the Landlord, the Parties shall sign an agreement stating the area of the Premises and the amount of Lease Payment for the following periods of the Lease Term recalculated in proportion to the decrease of the Premises area.  Such decrease of the leased area may not occur earlier than January 01, 2010.
+ 
+Article 11.            Force majeure
+ 
+11.1.        Each of the Parties is released from liability for failure to perform its obligations under this Agreement in whole or in part, if such non-performance resulted from circumstances beyond their reasonable control  force majeure circumstances.  Such release from liability applies only to those obligations failure to perform which arose due to such circumstances beyond  reasonable control, and only for the term of such circumstances.
+ 
+11.2.        The Party limited by circumstances beyond its reasonable control shall notify the other Party of such circumstances in writing within Seven (7) business days from their occurrence, otherwise it may not reference such circumstances in future.
+ 
+11.3.        The Parties consider circumstances which arose beyond their will, which they could not reasonably foresee or prevent by reasonable measures to be circumstances beyond their reasonable control.
+ 
+11.4.        If such circumstances of beyond reasonable control of the Parties last for more than one month, the Parties shall conduct negotiations to determine whether they may proceed to perform the Agreement.  In any case within Three (3) months from the occurrence of the circumstances beyond Parties reasonable control and after the notification from the Party which is limited by force majeure, either Party may terminate this Agreement by written notification of the other Party.
+ 
+11.5.        Lease Payment shall not accrue if the Tenant is unable to use the Premises for the Target Purpose due to circumstances beyond reasonable control.
+ 
+Article 12.            Amendment and Termination of the Agreement
+ 
+12.1.        This Agreement may be amended or terminated subject to Parties consent, as well as in accordance with the procedure, prescribed by the current legislation of the Russian Federation.  All amendment hereto shall be registered by the state in accordance with Clause 15 hereof.
+ 
+12.2.        The Tenant shall duly notify the Landlord at least Twelve (12) months prior to the expiration of the Lease Term of the intention to use or refrain from the preemptive right to make the lease agreement for the new term.  Provided the Tenant expresses the intention to exercise the preemptive right within the term specified herein, he is obliged to enter the new lease agreement on the conditions provided by the Landlord within Three (3) months from the receipt of the notice by the Landlord.
+ 
+12.3.        Termination of the Agreement in accordance with paragraphs 1  4 Article 619 and paragraphs 1  4 Article 620 of the Civil Code of the Russian Federation upon the initiative of one of the Parties except for Clauses 10.17, 12.4, 12.5, 12.7, 12.10 hereof, is available only upon provision by the initiator to the other Party of the claim to cure breaches which constitute grounds for termination of the Agreement.  Provided the stated breaches are not cured by the Party who has received the claim within Thirty (30) calendar days from its receipt, the other Party may file to court claiming termination of the Agreement.
+ 
+12.4.        In accordance with paragraph 3 Article 450 of the Civil Code of Russian Federation the Landlord may unilaterally terminate the Agreement in the following cases, provided a
+ 
+29
+
+
+
+
+ 
+notice is made to the Tenant at least Ten (10) business days prior to the date of the termination of the Agreement:
+ 
+12.4.1.     Repeated use of the Premises (part thereof) by the Tenant in breach of the Target Purpose (in breach of Clause 6.19 hereof);
+ 
+12.4.2.     Material deterioration of the Premises caused by Tenants fault which prevent normal use of the Premises for the purpose specified in Clause 6.19 hereof and (or) necessity for repairmen in order to restore the Premises original state specified in the Transfer and Acceptance Act and addendums thereto made in accordance with Article 7 hereof, including but not limited to the following case:
+ 
+·       destruction of the Premises support structure, mounting and demounting of staircases;
+ 
+·       performance of the Fir-Out Works by the Tenant without Landlords written approval.
+ 
+12.4.3.     Tenants breach of the term and (or) delay of payments under the Agreement (including but not limited to the following  Lease Payment, payment of the Security Deposit in accordance with Clause 9.1 hereof, deposition of the deficient amount of the Security Deposit in accordance with Clause 9.5 hereof) for a term of more than Thirty (30) business days or repeated breach of the payment term for a period of more than Twenty (20) business days.
+ 
+12.4.4.     Performance by the Tenant of works in the Premises which require Landlords approval without such approval especially those specified in Article 7 hereof;
+ 
+12.4.5.     Tenants failure to sign and (or) submit the Addendum made by the Tenant in accordance with Clause 8.20 hereof within Thirty (30) business days from its provision by the Landlord.
+ 
+12.5.         In accordance with paragraph 3 Article 450 of the Civil Code of Russian Federation the Tenant may unilaterally terminate the Agreement in the following cases, provided a notice is made to the Landlord at least Ten (10) business days prior to the date of the termination of the Agreement:
+ 
+12.5.1.     More than 10% of the Premises cannot be used by the Tenant in accordance with the permitted use for more than Thirty (30) consecutive calendar days or more than Forty Five (45) calendar days cumulatively within Twenty Four (24) months due to Landlords act or omission;
+ 
+12.5.2.     Use of Premises transferred to the Tenant is limited for more than Thirty (30) consecutive calendar days or more than Forty Five (45) calendar days cumulatively within Twenty Four (24) months due to defects, which were not mentioned by the Landlord, were not known by the Tenant and could not be found by the Tenant during the examination and check of the Premises upon its transfer.
+ 
+12.5.3.     Landlords failure to sign and (or) submit the Addendum made by the Tenant in accordance with Clauses 8.20, 10.17 hereof within Thirty (30) business days from its provision by the Tenant.
+ 
+12.6.        In accordance with paragraph 3 Article 450 of the Civil Code of Russian Federation the Tenant may unilaterally terminate the Agreement, provided a notice is made to the Landlord at least Ninety (90) calendar days prior to the date of the termination of the Agreement.  Upon Landlords claim the Tenant shall pay exclusive penalty of USD 5 000 000 (Five million).  Clause 10.13 hereof shall not apply.
+ 
+12.7.        In case of the Landlords failure to perform its obligations under Clause 6.44 hereof the Tenant may unilaterally terminate the Agreement in accordance with paragraph 3 Article 450 of the Civil Code of Russian Federation (no penalties paid), provided a notice is
+ 
+30
+
+
+
+
+ 
+made to the Landlord at least Ninety (90) calendar days prior to the date of the termination of the Agreement.  Penalty conditions provided under Clause 10.13 hereof shall not apply.
+ 
+12.8.        Preliminary termination of the Agreement does not release the Parties from the obligations to vacate and transfer the Premises and to perform payments, including penalty payments.
+ 
+12.9.        All amendments, addendums and agreements to this Agreement are valid of they are performed in writing and are signed by the authorized representatives of the Parties.
+ 
+12.10.      The Tenant may unilaterally terminate the Agreement after expiration of 5 years of the Lease Term, provided a notice is made to the Landlord at least Twelve (12) months prior to the date of the termination of the Agreement.  Such notice may be made by the Tenant only after expiration of 4 years of the Lease Term.  The Agreement shall be considered terminated through extrajudicial procedure after expiration of Twelve (12) months from the date Tenants notice on the termination of the Agreement is received by the Landlord.  Penalties provided under Clause 10.13 hereof shall not apply.
+ 
+12.11.      Termination of the Agreement without appropriate grounds (provided by law or under this Agreement) may not be effected prior to the expiration of the Lease Term.
+ 
+Article 13.            Term of the Agreement
+ 
+13.1.        This Agreement comes into effect on the date of its registration and remains effective until the end of the Lease Term specified in Clause 3.2 hereof.  The Parties have agreed that in accordance with Article 425 of the Civil Code of Russian Federation this Agreement shall apply to Parties relations from the date the Agreement is signed.
+ 
+13.2.        The Agreement ceases upon expiration of the Lease Term, and the Tenant must free the Premises and return it to the Landlord on the Landlord on the last date of the Lease Term.
+ 
+13.3.        Upon breach of the Agreement by the Tenant for one or more times through the term of the Agreement, the Tenant forfeits the preemptive right to make the lease agreement for a new term.  The Tenant shall have the preemptive right to make the lease agreement for a new term which shall not be less than five (5) years, with the conditions of the new agreement offered by the Landlord only upon due performance of the Agreement and due notification of the intention to make a new lease agreement provided to the Landlord at least Twelve (12) months prior to the expiration of the Lease Term specified in Clause 3.1 hereof.  The Parties must agree such new conditions of the new lease agreement within Three (3) months from receipt by the Landlord of the Tenants notice of the intention to make a new lease agreement, otherwise, Tenants preemptive right to make a new lease agreement for the new term ceases.
+ 
+Article 14.            Dispute Resolution Procedures
+ 
+14.1.        All disputes and differences between the Parties arising from this Agreement, shall be settled through negotiations.  If no understanding is reached by the Parties, the dispute shall be transferred to the Moscow Arbitrage court.
+ 
+Article 15.            Miscellaneous
+ 
+15.1.        The term business day used in the Agreement refers to all days of the week excluding Saturdays and Sundays, except for those Saturdays and Sundays which are official working days and excluding those days which are official holidays in Moscow and Russian Federation.  The term day used in reference to any term in the Agreement, unless specified as banking or business day means any calendar day.
+ 
+15.2.        The Parties undertake to keep all information received in connection with this Agreement as confidential information.  Each Party undertakes to apply all means necessary to avoid
+ 
+31
+
+
+
+
+ 
+disclosure of confidential information to third parties without express prior written consent of the other Party.  The Parties shall be liable for confidential information disclosure under the current legislation of Russian Federation.
+ 
+15.3.        Each Party shall within 7 (Seven) calendar days from the date of signing of this Agreement present the other Party with notarized copies of the constituent documents with all the amendments and certificates on registration of such amendments issued by the Inspectorate of the Ministry of Taxes and Levies; certificates of the Inspectorate of the Ministry of Taxes and Levies of confirming entry made to the Unified State Register of Legal Entities on issuance of the Principle State Registration Number; certificate of the companys state registration issued by Moscow Registration Chamber or other registration authority provided the Tenant\Landlord were registered as legal entities prior to July 01, 2002; tax registration certificate; decision (minutes of the meeting) on appointment of the Tenants\Landlords executive body and documents confirming powers of the person who signed this Agreement on behalf of the Tenants\Landlord; certified copies of licenses and certificates for the activities carried out by the Tenant\Landlord in the Premises\Building, provided such activities require mandatory certification under current legislation of the Russian Federation; list of persons authorized by the Tenant to receive payment invoices and other post from the Landlord.  Each Party within 7 (Seven) calendar days from registration of amendments to the Partys constituent and other documents shall provide the other Party with notarized copies of the documents containing such amendments as well as certificates proving registration of the amendments when such certificates are to be issued under the applicable legislation of Russian Federation.
+ 
+15.4.        All notices and notifications required under this Agreement:
+ 
+a)             shall be personally handed over to the persons specified under the Agreement with acknowledgement of receipt:
+ 
+The Landlord: CJSC Red Rose 1875
+Address: 11 Timura Frunze st., bld. 44, Moscow
+Attention of: Lukin Mikhail Anatolievich
+Phone: +7 (495) 786-8120
+Fax: +7 (495) 246-9721
+The Tenant: LLC YANDEX
+Address: 1 Samokatnaya st., bld. 21, Moscow
+Attention of: Vachutinsky Gennady Michailovich
+Phone: +7 (495) 7397000
+Fax: +7 (495) 7397070
+ 
+b)             are sent by prepaid registered mail with acknowledgement of receipt to the addresses specified in the Agreement.  A Party shall immediately inform the other Party about change of its address;
+ 
+c)             shall be made in writing, in Russian language and signed by the Partys authorized person.
+ 
+15.5.        The Parties hereby guarantee that all notifications, acts and other documents made in accordance with this Agreement and baring Parties seals or made on the Parties letter-heads, shall be signed by authorized persons, having the required capacity.  Therefore
+ 
+32
+
+
+
+
+ 
+when challenging the validity of the document the Parties may not refer to the fact that the document baring the seal of the Party was signed by an unauthorized person.
+ 
+15.6.        The Parties hereby guaranty that by the time of the conclusion of this Agreement the issue of its conclusion has been duly agreed with the Partys Shareholders and/or authorized management bodies of the Party (provided such consent is required under the current legislation of the Russian Federation and/or constituent documents of the Party), and all other corporate procedures prescribed by the current legislation of the Russian Federation and/or Partys constituent documents have been duly performed.
+ 
+15.7.        Provision of telecommunication services at the Premises:
+ 
+15.7.1.     The Building is connected to the networks of the leading telecommunication companies.  Provision of telecommunication services in the Building and access to the phone line and Internet is performed by a licensed communication provider LLC EDN Sovintel based on a separate agreement concluded by the Tenant and LLC EDN Sovintel.
+ 
+15.7.2.     Provision of the telecommunication channels to the relevant floor of the Premises is performed by the Tenant through the main vertical cable system of the Building;
+ 
+15.7.3.     The Tenant is not allowed (independently or through third parties) to change the main vertical cable system of the Building provided by the Landlord;
+ 
+15.7.4.     The Tenant may (independently or through third parties) upon prior written consent of the Landlord perform vertical and horizontal wiring of the main cable system of the Building;
+ 
+15.7.5.     The Tenant may install his own telecommunication system on the Premises.
+ 
+15.8.        In case of change of the registered office specified in the constituent documents, postal addresses, phones or changes of the banking details, the Parties shall immediately notify each other thereof in writing.
+ 
+15.9.        All exhibits to the Agreement constitute its integral part if made in writing and signed by both parties.
+ 
+15.10.      All other matters not regulated herein shall fall within the regulation of applicable Russian law related to lease.
+ 
+15.11.      This Agreements is made in three copies, each of which has equal legal force, one copy for each of the parties and one for the state registration authority.
+ 
+Article 16.            Address and banking details of the Parties
+ 
+The Landlord:
+Closed Joint Stock Company
+Red Rose 1875
+Taxpayer Identification Number 7704247102 Tax Registration Reason Code 774901001
+Russian Business and Organization Classification 59730739
+Russian National Classifier of Economic Activities 17.15; 17.24
+Registered office (postal address) at: 11 Timura Frunze st., bld. 44, 119021, Moscow
+Tel.: Director 246-97-06, 786-81-20,
+ 
+33
+
+
+
+
+ 
+Chief Accountant 786-81-20,
+Tel./Fax:246-97-21, 786-81-20
+Tel./Fax:246-97-21, 786-81-20
+Bank account: 40702810400001404246
+Correspondent account: 30101810200000000700
+Bank Identification Code 044525700
+Bank CJSC RAIFFEIZENBANK, Moscow
+ 
+The Tenant
+LLC YANDEX
+Registered office at: 1 Samokatnaya st., bld. 21, 111033, Moscow
+Actual address: 1 Samokatnaya st., bld. 21, 111033, Moscow
+Taxpayer Identification Number 7736207543
+Tax Registration Reason Code 772201001
+Bank account: 40702810500001400742 with CJSC RAIFFEIZENBANK, Moscow
+Correspondent account: 30101810200000000700
+Bank Identification Code 044525700
+Genearl Director Volozh Arkady Yuryevich
+Chief Accountant Chebunina Elena Vladimirovna
+Tel./Fax (495) 739-70-00; (495) 739-70-70
+Principle State Registration Number 1027700229193
+Russian Business and Organization Classification 55187675
+Russian National Classifier of Economic Activities 73.10
+ 
+ 
+
+
+
+[Closed Joint Stock Company Red Rose 1875 Seal] 
+
+  
+
+[Limited Liability Company YANDEX Seal]  
+
+
+[Signature] 
+
+  
+
+[Signature]   
+ 
+34
+
+
+
+ 
+
+
+
+  
+
+Exhibit 2 to Commercial Lease  
+
+
+  
+
+Agreement No. 251208  
+
+
+  
+
+of December 25, 2008  
+
+
+  
+
+   
+
+
+Moscow 
+
+December 25, 2008   
+ 
+Form of Transfer and Acceptance Act
+ 
+TRANSFER AND ACCEPTANCE ACT
+to the Lease Agreement No.            of
+ 
+
+
+
+Moscow 
+
+                 , 200             
+ 
+                                 , referred to as the Landlord incorporated under the laws of Russian Federation, represented by the General Director                                                             , acting pursuant to the Articles of Association as one Party, and
+ 
+                                 , incorporated under the laws of Russian Federation, hereinafter referred to as the Tenant, represented by the General Director                                                             , acting pursuant to the Articles of Association, as the other Party,
+ 
+have drafted this Act (hereinafter  the Act) to the Commercial Lease Agreement No.            of                      (hereinafter  the Agreement) on the following:
+ 
+1.             In pursuance of the Agreement the Landlord transferred and the Tenant accepted non-residential premises with the total area of            square meters (                    ) square meters, located on the            (          ) of the building located at the following address: Moscow, street                               , house            (hereinafter  the Building), office           , rooms No.            (hereinbelow the Premises).
+ 
+2.             The state of the Premises corresponds conditions of the Agreement and the Premises may be used by the Tenant for the purpose specified in the Agreement.
+ 
+3.             The Tenant has no claims to the state and supply of the Premises.
+ 
+4.             This Act is made and signed by the Parties in three copies, all three copies have equal legal force.
+ 
+ 
+
+
+
+Transferred 
+
+  
+
+Accepted  
+
+
+  
+
+  
+
+   
+
+
+Landlord 
+
+  
+
+Tenant  
+
+
+  
+
+  
+
+   
+
+
+/ M.A. Lukin / 
+
+  
+
+/ A.Y. Volozh /  
+
+
+  
+
+  
+
+   
+
+
+(seal here) 
+
+  
+
+(seal here)   
+ 
+35
+
+
+
+
+ 
+
+
+
+  
+
+Exhibit 3 to Commercial Lease  
+
+
+  
+
+Agreement No. 251208  
+
+
+  
+
+of December 25, 2008  
+
+
+  
+
+   
+
+
+Moscow 
+
+December 25, 2008   
+ 
+Technical Characteristics of the Building
+ 
+Description of the state of Premises, transferred under the Transfer and Acceptance Act:
+ 
+The state of the transferred Premises shall at least answer the standard developers finish test:
+ 
+All Premises have the following shell and core fit-out: plastered brick-built partition, toweled concrete walls and ceiling, concrete floor.
+ 
+Final Premises ceiling height (from floor to ) at least 2.90 meters, in the reconstructed and rebuilt parts of the Building Premises height may be reduced to 2.70 meters.
+ 
+Office blocks depth from outer walls with daylight openings shall not exceed 12 meters.  False floor and ceiling may be installed in the office space.  Range between column axis 7.8 x 8.6 meters.
+ 
+The Premises is fitted with multiple glass units with glass of the highest class with modern energy-efficient technologies.  The glass units may be opened in two angles with the area of at least 30% of the area of the Premises.  All windows and doors are fitted with all locking controls.
+ 
+The specified load on the flagstones in the Premises (uniformly distributed load including wall load) is at least 400 kilograms per square meter.
+ 
+Premises finished in accordance with the Fit-Out Works Projects agreed in accordance with the Agreement, are transferred to the Tenant without any construction or any other waste, construction material etc.
+ 
+Cold-water supply is installed in the Premises.
+ 
+Heating system:
+ 
+Heating systems  double-tube system with horizontal floor-by-floor sections with dead-end movement of the heat carrier.  Floor-by-floor sections are installed in the floors.
+ 
+The Landlord has equipped the premises with convectors and radiators produced by KORADO;
+ 
+Ventilation and cooling systems:
+ 
+Provision of controlled metrological conditions and fresh air in the Premises is performed by mechanically activated input-extract ventilation system planned in all Premises, with the minimal consumption of fresh air of 60 cubic meters per hour per person.  Area per one employee  8 square meters.  Input and extract are provided in the upper zone.  Vertical layout in the Building is performed by the Landlord.
+ 
+Rough conversion of fresh air includes the following functions: two-stage cleaning of the air from dust, heat recovery, heating up, cooling, humidification.  The ventilation systems of the Premises are fitted with heat recovery units equipped with intermediate heat carrier.  The Tenant will be allowed to connect to the input-extract ventilation system equipped with air-gates on the Premises limits in order to connect his air-line group.
+ 
+For sustaining of optimal air temperature in the Premises during the warm and intermediate seasons the Tenant may install conditioning systems.  Cooling of the Building is performed by water-cooling devices (chillers), functioning together with fan water-cooling units (dry coolers) 
+ 
+36
+
+
+
+
+ 
+during summer season, and water coils operating together with dry coolers during winter season.  If required the Tenant may be allowed to connect the Server rooms to the Buildings cooling system and/or to install additional split-systems with technical blocks installed on the roof of the building (mechanical floor).  The Tenant will be provided with 100 watt per square meter from the Buildings cooling system.
+ 
+Specifications of air in the premises provided by central ventilation and cooling systems are as follows:
+ 
+·                  warm season internal temperature = 24ºC, j = 65  40%;
+ 
+·                  cold seasons internal temperature = 20ºC, j = 45  35%.
+ 
+Air conditioning is performed through cooling of fresh air in the air sets (central conditioners) and cooling of the Premises internal air by fan coil units (installed by the Tenant). Vertical layout in the Building is performed by the Landlord.
+ 
+Smoke protection:
+ 
+The leased Premises are equipped with domestic smoke protection units, produced by MOVEN, VEZA, VINGS.
+ 
+Water supply and sewer system:
+ 
+Internal drinking water supply system force-feeds cold and hot water to the Premises.  System pressure  at least 5 meters.  Drinking water supply tubes are fitted with filters.  Each Tenants Premises on the floor has in its wetcore area a stand pipe fitted with valves providing connection to the Buildings water supply system.
+ 
+Modular tubes of the sewer system are available on the floors of the Building, allowing the Tenant to install his own bathrooms and small kitchens.  Each Tenants Premises on the floor has in its wetcore area a stand pipe of 100 millimeters diameter providing connection to the Buildings sewer system.
+ 
+The list of Landlords works performed in connection with the engineering systems prior to signature of the Occupancy Act and provided above concerns all Premises communications and systems in the Premises with open planning.  Routing under Project documentation is performed by the Tenant by its own efforts and expenses.
+ 
+Fire alarm system:
+ 
+The Premises are fitted with sprinkler fire-extinguishing system and fire-plugs and fire-hoses cases.  The cases are located in readily accessible areas allowing for sprinkling each part of the Premises with two water jets.  The fire sources are sprayed with universal water sprinklers (68ºC) Q = 0.425 (Q factor = 80.7)
+ 
+Electrical power supply:
+ 
+The Tenant is provided with the electrical power supply per time-based scheme based on the load of 100 kilowatt per square meter (except for engineering systems).
+ 
+The Landlord provides the Tenant with water, electricity and other resources listed in this Exhibit in the amount sufficient for office space and ensures there use through provision of the terminal units in Tenants Premises.
+ 
+Fire alarm:
+ 
+All premises of the Tenants are protected by targeted analog fire alarm system which includes: Targeted analog fire alarm main frame, smoke detectors, heat detectors, wall-mounted fire alarm buttons, fire detectors above false ceiling if such ceilings are installed.
+ 
+37
+
+
+
+
+Warning system:
+ 
+The warning system is planned and installed as a warning system in accordance with NPB 88.
+ 
+The minimal volume of the sound signal emitted by the system shall be 65 decibel or 5 decibel higher than the noise level in all the premises of the Building.  The system is planned as 65 decibel + 10 decibel for premises with circulation.
+ 
+One channel warning system is provided for Premises, common areas, clearing routes and technical rooms.
+ 
+Security system:
+ 
+Cable TV, unauthorized access warning system and contact-free access system are installed in the Building and allow for connection of the Tenant.
+ 
+The Landlord fits the reception area with two-level turnstiles.  Both sides of the turnstiles are equipped with contact-free card reading devices to monitor exit.
+ 
+Tenants security systems shall act separately from that of the Landlord.
+ 
+Internet and telecommunications:
+ 
+Access to telephone and data transfer (Internet) services is granted at Tenants own expense on the bases of a separate agreement with one of the two exclusive telecommunication services providers in the Building, one of which is Golden Telecom, Inc..
+ 
+The Tenant may engage other telecommunication services provider only upon Landlords written consent.  Installation of telecommunication equipment, including cabling inside the Building and on the Complexs areas is performed only upon Landlords consent.
+ 
+ 
+
+
+
+[Closed Joint Stock Company Red Rose 1875 Seal] 
+
+  
+
+[Limited Liability Company YANDEX Seal]  
+
+
+[Signature] 
+
+  
+
+[Signature]   
+ 
+38
+
+
+
+
+ 
+
+
+
+  
+
+Exhibit 4 to Commercial Lease  
+
+
+  
+
+Agreement No. 251208  
+
+
+  
+
+of December 25, 2008  
+
+
+  
+
+   
+
+
+Moscow 
+
+December 25, 2008   
+ 
+ 
+Fit-Out Works and other Non-Ordinary Repairs of the Premises Completion Rules
+ 
+I.              State of Premises upon transfer to the Tenant
+ 
+1.                 The Landlord transfers the Premises to the Tenant in the state and order prescribed by this Agreement and the transfer and acceptance act.
+ 
+2.                 The Tenant shall fit-out the Premises at his own expense and shall engage licensed contractors pursuant to the Agreement.
+ 
+II.            Project of the interior of the Premises and handling permissions and other documents
+ 
+1.                 The Tenant shall pick and approve the contractor for the fit-out works on the Premises independently.  The Tenant shall engage only those contractors who poses all the licenses required under the legislation of Russian Federation to perform works planned in the Premises.
+ 
+2.                 Before commencement of the fit-out works the Tenant shall present to the Landlord detailed architectural design of the Premises and the Premises engineering systems project in at least 1:100 scale in order to receive the Landlords written consent to connect the said engineering systems to the Buildings utilities systems (ventilation, cooling, electricity, telecommunication cables, fire alarm etc.), as well as receipt of Landlords written approval of general architectural changes (alteration).  The submitted projects shall correspond with the health requirements established in Russian Federation, other rules and other legal acts in Russian Federation, and also consider limits of utility and energy resources, appropriated by the Landlord for the Premises.
+ 
+3.                 Blueprint and specification requirements:
+ 
+Floor-by-floor plan in M-100 scale, including: architectural blueprint of the Premises with partitions, windows, and doors and specification of the finishing materials used; scope of Tenants works (specifications); technological blueprint specifying locations of all technological and office equipment; full blueprints of the engineering systems (ventilation and cooling; electrical and light-current systems; water supply and sewers  provided additional toilet areas are established; fire alarms; etc.); partitions construction drawings;
+ 
+Details, including: sectional elevations with detailed description of all suggested building methods and materials; Premises fit-out form with the indication of used finishing materials; door schedule;
+ 
+Ceiling plan, including: false ceiling frame; locations of the lights; locations of the ventilation frame; locations of other elements attached to or penetrating the ceiling; type of the ceiling system and finishing; locations of the Buildings ventilation system access panels;
+ 
+Plumbing plan (provided additional toilet areas are established), including: water supply tubes locations; water-closet pans, wash basins, grease-traps locations, etc.; axonometric schemes of the water supply and sewer systems; technological equipment positioning plan;
+ 
+Mechanical part plan, including: location, type and dimensions of the air-conditioners using condenser water or fans, if such are required; air chutes locations, equipment specifications; heating, ventilation and cooling load calculations;
+ 
+39
+
+
+
+
+ 
+Electricity circuit project, including: electricity circuit location; wire and cable sections; location of electric and telephone outlets; lighting; sing line electricity supply diagram.
+ 
+4.                 Provided the abovementioned project documentation and relevant works require mandatory agreement of the state bodies, including: Fire Safety Inspection Service, Sanitary & Epidemiological Service, Inter-department commission of the regional authority, etc. the Tenant must independently acquire all required approvals and permissions.
+ 
+5.                 All changes introduced by the Tenant into the architectural project or the engineering communications project may be implemented only upon Landlords written approval.  Should such changes require receipt of new approvals and permissions from the state bodies, the Tenant must receive them independently.
+ 
+6.                 The Tenant may proceed to perform internal decoration of the Premises only upon Landlords permission and receipt of all approvals from the state bodies required under the laws of Russian Federation.
+ 
+7.                 After the decoration of the Premises is complete the Tenant must present the Landlord with one copy of the executive documentation on the performed engineering and construction works with all required approvals of the state bodies of Russian Federation.
+ 
+8.                 Following the completion of the Premises decoration and receipt of documents from the Tenant shall submit to the Landlord 2 original copies of the documents from Technical Inventory Bureau (a notice form TIB on the Building/Premises state (form No. 5), extract from the TIB technical certificate (form 1a), floor-by-floor plan of the Premises and explication), which do not contain any unapproved changes to the Premises.
+ 
+III.           Fit-out works procedure
+ 
+1.                 The Tenant shall agree with the Landlord the term and time of the fitting-out works in the Premises in written form.  The Tenant must ensure that such works do not limit use of the Building by other tenants and owners of the adjacent premises and buildings, including limitations due to noise and vibration and shall seek to perform such works outside the working hours.
+ 
+2.                 Prior to the beginning of the fitting-out works the Tenant must provide the Landlord with certified copies of the contractors licenses allowing to perform works planned for the Premises; certificate of contractors liability insurance against third parties injuries, harm to health or property damage; list of names and telephones of contractors (and subcontractors) managing employees.
+ 
+3.                 All fitting-out works performed by the Tenant and his contractors in the Premises shall be performed in accordance with requirement of the state bodies, legal documents of Russian Federation and Landlords organizational requirements.  The Tenant is liable for any damage caused to the Premises of the Building during the fit-out works.
+ 
+4.                 The Tenant and (or) its contractor shall perform fitting-out works only pursuant to the projects approved by the Landlord.
+ 
+5.                 The Tenant and (or) its contractor shall use only certified materials to fit-out the Premises use of which is agreed with Fire Safety Inspection Service.
+ 
+6.                 The Landlord shall supply the Tenant and (or) his contractor with information on concealed pipework, wiring etc., installed over, under or within the Premises, and the Tenant and (or) his contractor shall confirm receipt of the stated information.
+ 
+7.                 The Tenant shall strictly follow Landlords orders pertaining to connection of the engineering systems of the Premises to the Buildings utility systems (ventilation, cooling, electricity, telecommunication cables, fire alarm etc.) and perform the mentioned connection only in the presence of the Landlords representative.
+ 
+40
+
+
+
+
+ 
+8.                 Removal of waste from the fitting-out works shall be performed by the Tenant at his own expense and outside the working hours.  Container locations must be agreed with the Landlord.
+ 
+9.                 Through the term of the fitting-out works contractors employees shall use the exit to the Buildings inner area and the appropriate ladder.  Use of lifts for transfer of construction material and waste is prohibited.
+ 
+10.               Following the completion of the fitting-out works including engineering system installation works by the Tenant and (or) his contractor, acts on concealed works, on insulation resistance measurements, engineering unit trials etc. are drawn up and signed by the Tenant (the customer), Tenants contractor and the Landlord.
+ 
+ 
+
+
+
+[Closed Joint Stock Company Red Rose 1875 Seal] 
+
+  
+
+[Limited Liability Company YANDEX Seal]  
+
+
+[Signature] 
+
+  
+
+[Signature]   
+ 
+41
+
+
+
+ 
+Exhibit 5 to Commercial Lease
+Agreement No. 251208
+of December 25, 2008
+ 
+
+
+
+Moscow 
+
+  
+
+December 25, 2008   
+ 
+Delineation of the Tenants and Landlords responsibilities pertaining to engineering systems is performed in the following way:
+ 
+
+
+
+No. 
+
+  
+
+System title 
+
+  
+
+Landlords responsibility 
+
+  
+
+Tenants responsibility  
+
+
+1. 
+
+  
+
+Electric facilities 
+
+  
+
+Buildings electricity network from the point of connection to external power source to automatic circuit breakers on each floor. 
+
+  
+
+Electricity network of the Premises from automatic circuit breaker on the floor, including lighting and outlets.  
+
+
+2. 
+
+  
+
+Sewers 
+
+  
+
+Transitional master sewer systems to the diverging section of the master sewer stand pipe. 
+
+  
+
+From diverging section of the master sewer stand pipe on the floor, including sanitary ware and local pipes.  
+
+
+3. 
+
+  
+
+Water supply 
+
+  
+
+Buildings master vertical stand pipes to the cut off valve of cold and hot water. 
+
+  
+
+Pipers and sanitary ware on the Premises floor from the cut off valve of cold and hot water of the master stand pipe of the water supply system.  
+
+
+4. 
+
+  
+
+Heating 
+
+  
+
+Full radiator and/or convector heating system. 
+
+  
+
+Premises radiator and/or convector heating system if altered by the Tenant.  
+
+
+5. 
+
+  
+
+Heat and cold supply of air-conditioner units 
+
+  
+
+Heat and cold supply of air-conditioner units to the cut off valve branching from the vertical stand pipes of the heat and cold supply systems. 
+
+  
+
+Heat and cold supply of air-conditioner units system from the cut off valve branching from the vertical stand pipe. Streaming  compensated water from air-conditioner units.  
+
+
+6. 
+
+  
+
+Constructions 
+
+  
+
+Office complex common areas, including the roofs, facades, bridgins and other supporting constructions. 
+
+  
+
+Full fitting-out of the Premises, partitions, doors, false ceiling, floors.  
+
+
+7. 
+
+  
+
+Institutional arrangements 
+
+  
+
+In accordance with the preventive maintenance plan (PMP). 
+
+  
+
+Appointment of persons responsible for fire safety and electric facilities. Participation in fire safety    
+ 
+42
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+trainings organized by the Landlord.  
+
+
+8. 
+
+  
+
+Fire alarm system, fire alarm, smoke removal 
+
+  
+
+Whole system. 
+
+  
+
+Preservation of system parts (detectors), installed in the Premises.  
+
+
+9. 
+
+  
+
+Security system 
+
+  
+
+Whole system. 
+
+  
+
+Preservation of the complete set of the security system equipment installed in the Premises.  
+
+
+10. 
+
+  
+
+Ventilation system 
+
+  
+
+General ventilation system of the Office complex to speed control valves situated on each floor. 
+
+  
+
+Preservation, set up, maintenance of terminal units in the common premises of the whole Office complex.  
+
+
+11. 
+
+  
+
+Structured cable networks 
+
+  
+
+Whole system to floor (horizontal) switch room. 
+
+  
+
+   
+
+
+12. 
+
+  
+
+Warning system and clearing management system 
+
+  
+
+Whole system. 
+
+  
+
+Preservation of the systems equipment installed in the Premises.  
+
+
+13. 
+
+  
+
+TV surveillance system 
+
+  
+
+Whole system. 
+
+  
+
+Preservation of the systems equipment installed in the Premises.  
+
+
+14. 
+
+  
+
+Cable TV reception system 
+
+  
+
+Whole system to customer line. 
+
+  
+
+Customer line.  
+
+
+15. 
+
+  
+
+Controlled access system 
+
+  
+
+Whole system. 
+
+  
+
+Preservation of the systems equipment installed in the Premises.   
+ 
+
+
+
+
+[Closed Joint Stock Company Red Rose 1875 Seal] 
+
+  
+
+[Limited Liability Company YANDEX Seal]  
+
+
+[Signature] 
+
+  
+
+[Signature]   
+
+ 
+43
+
+
+
+
+ 
+TRANSFER AND ACCEPTANCE ACT
+to the Commercial Lease Agreement No. 251208 of December 25, 2008
+ 
+
+
+
+Moscow 
+
+  
+
+January 01, 2009   
+ 
+Closed Joint Stock Company Red Rose 1875 (Principle State Registration Number 1027704010003; Taxpayer Identification Number 7704247102), referred to as the Landlord incorporated under the laws of Russian Federation, represented by the General Director Lukin Mikhail Anatolievich acting pursuant to the Articles of Association as one Party, and Limited Liability Company YANDEX (Principle State Registration Number 1027700229193; Taxpayer Identification Number 7736207543), referred to as the Tenant, incorporated under the laws of the Russian Federation, represented by the General Director Volozh Arkady Yurievich, acting pursuant to the Articles of Association, as the other Party, hereinafter individually and collectively referred to as the Party/Parties, have drafted this Act (hereinafter  the Act) to the Commercial Lease Agreement No. 251208 of December 25, 2008 (hereinafter  the Agreement) on the following:
+ 
+1.             In pursuance of the Agreement the Landlord transferred and the Tenant accepted non-residential premises with the total area of four thousand eighty point eight (4 080.8) square meters (hereinafter the Premises), specifically:
+ 
+1.1.          On the ground floor  four hundred eighty two point two (482.2) square meters, office IV, room No. 6;
+ 
+1.2.          On the first floor  five hundred ninety seven point four (597.4) square meters, office V, room No. 1;
+ 
+1.3.          On the second floor  six hundred six point one (606.1) square meters, office I, room No. 1;
+ 
+1.4.          On the third floor  six hundred seven point four (607.4) square meters, office I, room No. 1;
+ 
+1.5.          On the fourth floor  five hundred seventy four point eight (574.8) square meters, office I, room No. 1;
+ 
+1.6.          On the fifth floor  six hundred two point five (602.5) square meters, office I, room No. 1;
+ 
+1.7.          On the sixth floor  six hundred ten point four (610.4) square meters, office I.
+ 
+2.             The state of the Premises corresponds conditions of the Agreement and the Premises may be used by the Tenant for the purpose specified in the Agreement.
+ 
+3.             The Tenant has no claims to the state and supply of the Premises.
+ 
+4.             This Act is made and signed by the Parties in three copies, all three copies have equal legal force.
+ 
+
+
+
+Transferred 
+
+  
+
+Accepted  
+
+
+  
+
+  
+
+   
+
+
+Landlord 
+
+  
+
+Tenant  
+
+
+  
+
+  
+
+   
+
+
+General Director 
+
+  
+
+General Director  
+
+
+  
+
+  
+
+   
+
+
+[Signature] / M.A. Lukin / 
+
+  
+
+[Signature] / A.Y. Volozh /  
+
+
+  
+
+  
+
+   
+
+
+[Closed Joint Stock Company Red Rose 1875 Seal] 
+
+  
+
+[Limited Liability Company YANDEX Seal]   
+ 
+44
+
+
+
+
+ 
+ADDENDUM NO. 1
+to the Commercial Lease Agreement No. 251208 of December 25, 2008
+ 
+
+
+
+Moscow 
+
+  
+
+October 01, 2009   
+ 
+Closed Joint Stock Company Red Rose 1875 (Principle State Registration Number 1027704010003; Taxpayer Identification Number 7704247102), referred to as the Landlord incorporated under the laws of Russian Federation, represented by the General Director Lukin Mikhail Anatolievich acting pursuant to the Articles of Association as one Party, and
+ 
+Limited Liability Company YANDEX (Principle State Registration Number 1027700229193; Taxpayer Identification Number 7736207543), referred to as the Tenant, incorporated under the laws of the Russian Federation, represented by the General Director Volozh Arkady Yurievich, acting pursuant to the Articles of Association, as the other Party, hereinafter individually and collectively referred to as the Party/Parties, have drafted this Addendum to the Commercial Lease Agreement No. 251208 of December 25, 2008 registered in the Unified State Register of Rights to Real Estate and Transactions on December 30, 2008 No. 77-77-06/005/2008-128 (hereinafter  the Agreement) on the following:
+ 
+1.             On or prior to October 1, 2009 the Tenant shall return to the Landlord and document by the Transfer and Acceptance Act (Return Act) part of the Premises with the total area of four hundred seventy one point eight (471.8) square meters: in the basement of the Building two hundred fifty nine point nine (259.9) square meters office I, rooms No. 16, 27  30; on the ground floor of the Building two hundred eleven point nine (211.9) square feet, office IV, rooms No. 20, 21.
+ 
+2.             On or prior to October 1, 2009 the Landlord shall transfer to the Tenant and document by a Transfer and Acceptance Act part of the Premises with the total area of six thousand thirty nine point six (639.6) square meters: on the ground floor of the Building eighty four point two (84.2) square meters office V, rooms No. 1, 2  7; on the second floor of the Building five hundred fifty five point four (555.4) square meters, office VIII room No. 1.
+ 
+3.             In pursuance of Clause 1 and 2 hereof adopt the following revision of Clause 1.2 of the Agreement starting from October 1, 2009
+ 
+1.2 The Premises, under this Agreement, are non-residential premises with total area of sixteen thousand and three hundred sixty seven point one (16 367.1) square meters, in accordance with the data provided by the Territorial Bureau of Technical Inventory, located at the following address: 16 Leo Tolstoy Street, Moscow, the precise borders of which are fixed by the Parties on signing this Agreement and shown edged in brown lines in Exhibit No. 1/2 hereto as follows:
+ 
+1.2.1 On the ground floor five hundred ninety seven (597) square meters, office IV; rooms No. 6; office V, room No. 1, 2  7; office VII, room No. 6;
+ 
+1.2.2 On the first floor  two thousand two hundred seventy six point eight (2 276.8) square meters, office V, room No. 1; office VIII, room No. 1, office X, rooms No. 1, 2, 3;
+ 
+1.2.3 On the second floor  three thousand one hundred sixty seven point four (3 167.4) square meters, office I, room No. 1; office IV, room No. 1; office VI, rooms No. 1, 2; office VII, room No. 1, office VIII room No. 1;
+ 
+1.2.4. On the third floor  three thousand one hundred sixty seven point nine (3 167.9) square meters, office I, room No. 1; office IV, room No. 1; office VI, rooms No. 1, 2; office VII, room No. 1; office VIII, room No. 1;
+ 
+1.2.5 On the fourth floor  two thousand seven hundred thirty six point two (2 736.2) square meters, office I, room No. 1; office IV, room No. 1; office VI, room No. 1; office VII, room No. 1; office VIII, room No. 1;
+ 
+45
+
+
+
+ 
+1.2.6 On the fifth floor  two thousand two hundred sixty five point nine (2 265.9) square meters, office I, room No. 1; office IV, room No. 1; office VI, rooms No. 1, 2, 3;
+ 
+1.2.7 On the sixth floor  two thousand one hundred fifty five point nine (2 155.9) square meters, office I, room No. 1; office IV, room No. 1; office V, room No. 4; office VI, room No. 1.
+ 
+4.             Due to technical error during preparation of the Agreement adopt the following revised version of Clause 7.1.1. thereof: The Tenant shall with in the period prior to February 15, 2009 submit to the Landlord the Fit-Out Works Project of the Premises specified in Clause 2.1.2 of the Agreement.
+ 
+5.             Adopt the following revised version of Clause 8.6. of the Agreement:
+ 
+For the period until September 30, 2009 the Lease Payment for use of the Premises the area of which is determined under Clause 2.1.2 of the Agreement, including Utility Charges (except for electric power supply services to the Premises), Maintenance Costs and service costs for installment of the Tenants technical equipment (Clause 1.11 of the Agreement), equals two millions three hundred eighty three thousand five hundred fifty eight point zero (2 383 558.00) US Dollars per quarter.
+ 
+For the period from October 1, 2009 until December 31, 2009 the Lease Payment for use of the Premises the area of which is determined under Clause 2.1.2 of the Agreement, including Utility Charges (except for electric power supply services to the Premises), Maintenance Costs and service costs for installment of the Tenants technical equipment (Clause 1.11 of the Agreement), equals two millions four hundred forty three thousand five hundred thirty two point eighty three (2 443 532.83) US Dollars per quarter..
+ 
+6.             Adopt the following revised version of Clause 8.9.8. of the Agreement: Two millions thirty three thousand seven hundred four point thirty four (2 033 704.34) on or prior to November 20, 2009;.
+ 
+7.             Adopt the following revised version of Clause 8.10.2. of the Agreement:
+ 
+The base rent amounts to the following:
+ 
+
+
+
+Accounting Period 
+
+  
+
+Base Rent Amount (US dollars)  
+
+
+2010, 1st quarter 
+
+  
+
+3 344 129.38 
+
+  
+
+Three million three hundred forty four thousand one hundred twenty nine point thirty eight  
+
+
+2010, 2nd quarter 
+
+  
+
+3 349 843.66 
+
+  
+
+Three million three hundred forty nine thousand eight hundred forty three point sixty six  
+
+
+2010, 3rd quarter 
+
+  
+
+3 982 743.66 
+
+  
+
+Three million nine hundred eighty two thousand seven hundred forty three point sixty six  
+
+
+2010, 4th quarter 
+
+  
+
+3 997 159.27 
+
+  
+
+Three million nine hundred ninety seven thousand one hundred fifty nine point twenty seven  
+
+
+2011, 1st quarter 
+
+  
+
+4 040 707.42 
+
+  
+
+Four million forty thousand seven hundred seven point forty two  
+
+
+2011, 2nd quarter 
+
+  
+
+4 113 009.91 
+
+  
+
+Four million one hundred thirteen thousand nine point ninety one  
+
+
+2011, 3rd quarter 
+
+  
+
+4 113 009.91 
+
+  
+
+Four million one hundred thirteen thousand nine point ninety one  
+
+
+2011, 4th quarter 
+
+  
+
+4 119 906.46 
+
+  
+
+Four million one hundred nineteen thousand nine hundred six point forty six  
+
+
+2012, 1st quarter 
+
+  
+
+4 165 160.54 
+
+  
+
+Four million one hundred sixty five    
+ 
+46
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+  
+
+  
+
+thousand one hundred sixty point fifty four  
+
+
+2012, 2nd quarter 
+
+  
+
+4 239 632.11 
+
+  
+
+Four million two hundred thirty nine thousand six hundred thirty two point eleven  
+
+
+2012, 3rd quarter 
+
+  
+
+4 239 632.11 
+
+  
+
+Four million two hundred thirty nine thousand six hundred thirty two point eleven  
+
+
+2012, 4th quarter 
+
+  
+
+4 239 632.11 
+
+  
+
+Four million two hundred thirty nine thousand six hundred thirty two point eleven  
+
+
+2013, 1st quarter 
+
+  
+
+4 286 663.26 
+
+  
+
+Four million two hundred eighty six thousand six hundred sixty three point twenty six  
+
+
+2013, 2nd quarter 
+
+  
+
+4 363 368.98 
+
+  
+
+Four million three hundred sixty three thousand three hundred sixty eight point ninety eight  
+
+
+2013, 3rd quarter 
+
+  
+
+4 363 368.98 
+
+  
+
+Four million three hundred sixty three thousand three hundred sixty eight point ninety eight  
+
+
+2013, 4th quarter 
+
+  
+
+4 363 368.98 
+
+  
+
+Four million three hundred sixty three thousand three hundred sixty eight point ninety eight  
+
+
+2014, 1st quarter 
+
+  
+
+4 412 251.49 
+
+  
+
+Four million four hundred twelve thousand two hundred fifty one point forty nine  
+
+
+2014, 2nd quarter 
+
+  
+
+4 491 258.38 
+
+  
+
+Four million four hundred ninety one thousand two hundred fifty eight point thirty eight  
+
+
+2014, 3rd quarter 
+
+  
+
+4 491 258.38 
+
+  
+
+Four million four hundred ninety one thousand two hundred fifty eight point thirty eight  
+
+
+2014, 4th quarter 
+
+  
+
+4 491 258.38 
+
+  
+
+Four million four hundred ninety one thousand two hundred fifty eight point thirty eight  
+
+
+2015, 1st quarter 
+
+  
+
+4 542 069.83 
+
+  
+
+Four million five hundred forty two thousand sixty nine point eighty three  
+
+
+2015, 2nd quarter 
+
+  
+
+4 623 446.92 
+
+  
+
+Four million six hundred twenty three thousand four hundred forty six point ninety two  
+
+
+2015, 3rd quarter 
+
+  
+
+4 623 446.92 
+
+  
+
+Four million six hundred twenty three thousand four hundred forty six point ninety two  
+
+
+2015, 4th quarter 
+
+  
+
+4 623 446.92 
+
+  
+
+Four million six hundred twenty three thousand four hundred forty six point ninety two  
+
+
+2016, 1st quarter 
+
+  
+
+4 676 268.28 
+
+  
+
+Four million six hundred seventy six thousand two hundred sixty eight point twenty eight  
+
+
+2016, 2nd quarter 
+
+  
+
+4 760 086.69 
+
+  
+
+Four million seven hundred sixty thousand eighty six point sixty nine  
+
+
+2016, 3rd quarter 
+
+  
+
+4 760 086.69 
+
+  
+
+Four million seven hundred sixty thousand    
+ 
+47
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+  
+
+  
+
+eighty six point sixty nine  
+
+
+2016, 4th quarter 
+
+  
+
+4 760 086.69 
+
+  
+
+Four million seven hundred sixty thousand eighty six point sixty nine  
+
+
+2017, 1st quarter 
+
+  
+
+4 815 002.55 
+
+  
+
+Four million eight hundred fifteen thousand two point fifty five  
+
+
+2017, 2nd quarter 
+
+  
+
+4 901 335.51 
+
+  
+
+Four million nine hundred one thousand three hundred thirty five point fifty one  
+
+
+2017, 3rd quarter 
+
+  
+
+4 901 335.51 
+
+  
+
+Four million nine hundred one thousand three hundred thirty five point fifty one  
+
+
+2017, 4th quarter 
+
+  
+
+4 901 335.51 
+
+  
+
+Four million nine hundred one thousand three hundred thirty five point fifty one  
+
+
+2018, 1st quarter 
+
+  
+
+4 958 434.18 
+
+  
+
+Four million nine hundred fifty eight thousand four hundred thirty four point eighteen  
+
+
+2018, 2nd quarter 
+
+  
+
+5 047 357.13 
+
+  
+
+Five million forty seven thousand three hundred fifty seven point thirteen  
+
+
+2018, 3rd quarter 
+
+  
+
+5 047 357.13 
+
+  
+
+Five million forty seven thousand three hundred fifty seven point thirteen  
+
+
+2018, 4th quarter 
+
+  
+
+5 047 357.13 
+
+  
+
+Five million forty seven thousand three hundred fifty seven point thirteen   
+ 
+The base rent is fixed and may not be changed during the Lease Term unless otherwise is expressly stipulated by the Agreement.
+ 
+Payment of the base rent shall be performed by the Tenant in accordance with the following schedule:
+ 
+
+
+
+Period 
+
+  
+
+Payments (US dollars)  
+
+
+2010, 1st quarter 
+
+  
+
+896 252.28 
+
+  
+
+Eight hundred ninety six thousand two hundred fifty two point twenty eight  
+
+
+2010, 2nd quarter 
+
+  
+
+329 252.28 
+
+  
+
+Three hundred twenty nine thousand two hundred fifty two point twenty eight  
+
+
+2010, 3rd quarter 
+
+  
+
+762 152.28 
+
+  
+
+Seven hundred sixty two thousand one hundred fifty two point twenty eight  
+
+
+2010, 4th quarter 
+
+  
+
+970 507.28 
+
+  
+
+Nine hundred seventy thousand five hundred seven point twenty eight  
+
+
+2011, 1st quarter 
+
+  
+
+3 298 914.19 
+
+  
+
+Three million two hundred ninety eight thousand nine hundred fourteen point nineteen  
+
+
+2011, 2nd quarter 
+
+  
+
+3 711 216.68 
+
+  
+
+Three million seven hundred eleven thousand two hundred sixteen point sixty eight  
+
+
+2011, 3rd quarter 
+
+  
+
+3 711 216.68 
+
+  
+
+Three million seven hundred eleven thousand two hundred sixteen point sixty eight  
+
+
+2011, 4th quarter 
+
+  
+
+3 911 216.68 
+
+  
+
+Three million nine hundred eleven thousand two hundred sixteen point sixty eight  
+
+
+2012, 1st quarter 
+
+  
+
+3 756 470.75 
+
+  
+
+Three million seven hundred fifty six thousand four hundred seventy point seventy five  
+
+
+2012, 2nd quarter 
+
+  
+
+3 830 942.32 
+
+  
+
+Three million eight hundred thirty thousand nine hundred forty two point   
+ 
+48
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+  
+
+  
+
+thirty two  
+
+
+2012, 3rd quarter 
+
+  
+
+3 830 942.32 
+
+  
+
+Three million eight hundred thirty thousand nine hundred forty two point thirty two  
+
+
+2012, 4th quarter 
+
+  
+
+3 830 942.32 
+
+  
+
+Three million eight hundred thirty thousand nine hundred forty two point thirty two  
+
+
+2013, 1st quarter 
+
+  
+
+3 877 973.48 
+
+  
+
+Three million eight hundred seventy seven thousand nine hundred seventy three point forty eight  
+
+
+2013, 2nd quarter 
+
+  
+
+3 954 679.19 
+
+  
+
+Three million nine hundred fifty four thousand six hundred seventy nine point nineteen  
+
+
+2013, 3rd quarter 
+
+  
+
+3 954 679.19 
+
+  
+
+Three million nine hundred fifty four thousand six hundred seventy nine point nineteen  
+
+
+2013, 4th quarter 
+
+  
+
+3 954 679.19 
+
+  
+
+Three million nine hundred fifty four thousand six hundred seventy nine point nineteen  
+
+
+2014, 1st quarter 
+
+  
+
+4 003 561.71 
+
+  
+
+Four million three thousand five hundred sixty one point seventy one  
+
+
+2014, 2nd quarter 
+
+  
+
+4 082 568.60 
+
+  
+
+Four million eighty two thousand five hundred sixty eight point sixty  
+
+
+2014, 3rd quarter 
+
+  
+
+4 082 568.60 
+
+  
+
+Four million eighty two thousand five hundred sixty eight point sixty  
+
+
+2014, 4th quarter 
+
+  
+
+4 082 568.60 
+
+  
+
+Four million eighty two thousand five hundred sixty eight point sixty  
+
+
+2015, 1st quarter 
+
+  
+
+4 133 380.04 
+
+  
+
+Four million one hundred thirty three thousand three hundred eighty point zero four  
+
+
+2015, 2nd quarter 
+
+  
+
+4 214 757.14 
+
+  
+
+Four million two hundred fourteen thousand seven hundred fifty seven point fourteen  
+
+
+2015, 3rd quarter 
+
+  
+
+4 214 757.14 
+
+  
+
+Four million two hundred fourteen thousand seven hundred fifty seven point fourteen  
+
+
+2015, 4th quarter 
+
+  
+
+4 214 757.14 
+
+  
+
+Four million two hundred fourteen thousand seven hundred fifty seven point fourteen  
+
+
+2016, 1st quarter 
+
+  
+
+4 267 578.50 
+
+  
+
+Four million two hundred sixty seven thousand five hundred seventy eight point fifty  
+
+
+2016, 2nd quarter 
+
+  
+
+4 351 396.91 
+
+  
+
+Four million three hundred fifty one thousand three hundred ninety six point ninety one  
+
+
+2016, 3rd quarter 
+
+  
+
+4 351 396.91 
+
+  
+
+Four million three hundred fifty one thousand three hundred ninety six point ninety one  
+
+
+2016, 4th quarter 
+
+  
+
+4 351 396.91 
+
+  
+
+Four million three hundred fifty one thousand three hundred ninety six point ninety one  
+
+
+2017, 1st quarter 
+
+  
+
+4 406 312.76 
+
+  
+
+Four million four hundred six thousand three hundred twelve point seventy six  
+
+
+2017, 2nd quarter 
+
+  
+
+4 492 645.73 
+
+  
+
+Four million four hundred ninety two thousand six hundred forty five point    
+ 
+49
+
+
+
+
+ 
+
+
+
+  
+
+  
+
+  
+
+  
+
+seventy three  
+
+
+2017, 3rd quarter 
+
+  
+
+4 492 645.73 
+
+  
+
+Four million four hundred ninety two thousand six hundred forty five point seventy three  
+
+
+2017, 4th quarter 
+
+  
+
+4 492 645.73 
+
+  
+
+Four million four hundred ninety two thousand six hundred forty five point seventy three  
+
+
+2018, 1st quarter 
+
+  
+
+4 549 744.40 
+
+  
+
+Four million five hundred forty nine thousand seven hundred forty four point forty  
+
+
+2018, 2nd quarter 
+
+  
+
+4 638 667.35 
+
+  
+
+Four million six hundred thirty eight thousand six hundred sixty seven point thirty five  
+
+
+2018, 3rd quarter 
+
+  
+
+4 638 667.35 
+
+  
+
+Four million six hundred thirty eight thousand six hundred sixty seven point thirty five  
+
+
+2018, 4th quarter 
+
+  
+
+4 638 667.35 
+
+  
+
+Four million six hundred thirty eight thousand six hundred sixty seven point thirty five   
+ 
+8.             Conditions of this Addendum apply to the relations of the Parties starting from January 01, 2009.
+ 
+9.             This Addendum is made and signed by the Parties in three copies, one for the Tenant, one for the Landlord and one for the Moscow Office of the Federal Registration Service.
+ 
+10.           Other conditions of the Agreement are left without amendments.
+ 
+11.           This Addendum is an integral part of the Agreement and shall be effective from the date of its registration with Moscow Office of the Federal Registration Service
+ 
+SIGNATURES OF THE PARTIES:
+ 
+
+
+
+Landlord 
+
+  
+
+Tenant  
+
+
+General Director 
+
+  
+
+General Director  
+
+
+CJSC Red Rose 1875 
+
+  
+
+LLC YANDEX  
+
+
+[Signature] 
+
+  
+
+[Signature]  
+
+
+[Closed Joint Stock Company Red Rose 1875 Seal] 
+
+  
+
+[Limited Liability Company YANDEX Seal]   
+ 
+50

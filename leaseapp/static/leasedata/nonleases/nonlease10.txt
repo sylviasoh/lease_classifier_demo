@@ -1,0 +1,95 @@
+
+(2) Creation of a Tenancy
+ 
+The creation of a domestic tenancy may be oral or by way of a tenancy agreement or a lease. Differences between a tenancy agreement and a lease include duration and formality in execution. When the duration of the tenancy is not more than three years, a tenancy agreement is usually arranged. This will be in writing and involves a simpler method of execution. The tenancy agreement may or may not be registered. If the duration exceeds three years, a lease is required in accordance with Section 4(1) of the Conveyancing and Property Ordinance (Cap. 219). This has to be created by deed and must follow the formal procedure for a deed's execution. According to Section 3 of the Land Registration Ordinance (Cap. 128), a lease has to be registered at the Land Registry.
+
+ 	1.	Tenancy agreement
+ 	 	 
+ 	 	A tenancy not exceeding three years may be created by way of a tenancy agreement between the landlord and the tenant. If a party to the tenancy agreement is a limited company incorporated under the Companies Ordinance (Cap. 32), an authorised person may sign on behalf of the company. Generally, a director of the company has the power to enter into an agreement which binds the company, including a tenancy agreement.
+ 	 	 
+ 	2.	Lease
+ 	 	 
+ 	 	Like all other kinds of agreement made by deed, the execution of a lease comprises signature, sealing and delivery by the parties thereto:
+ 	 	 
+ 	 	
+a.	
+Signature
+
+If a party to a lease is an individual, the lease can be signed either by the individual personally or by his authorised agent. If a party is a limited company, the manner of signing a lease will be governed by its articles of association because the company's common seal will have to be used. The articles of association usually include one article on the use of the company's common seal, specifying who has authority to sign for and on behalf of the company an instrument to which the common seal is affixed. It is therefore necessary to look at this article in order to ascertain who has the authority to sign a lease on behalf of the company. The articles of some companies may specify the mode of execution, for example, by the chairman of the board of directors or by two directors. Other companies' articles provide more flexibility, for example, such person or persons as shall be authorised by the board of directors.
+
+There is a presumption under Section 20(1) of the Conveyancing and Property Ordinance (Cap. 219) that a deed is presumed to have been duly executed by a company if the deed bears the seal of the company and is signed by any one of the following three groups:
+
+ 	 
+ 	
+(i)	Two directors; or
+ 	 
+(ii)	One director and one secretary; or
+ 	 
+(iii)	One director and one permanent officer.
+ 
+b.	
+Sealing
+
+If a party to a lease is an individual, sealing is deemed to have been carried out on a document if the document (i) describes itself as a deed; or (ii) states that it has been sealed; or (iii) bears any mark intended to be or to represent a seal or the position of a seal. If a party is a limited company, the common seal of the company must be impressed adjacent to the signatures of the person(s) signing the lease for and on behalf of the company.
+
+ 	 
+c.	
+Delivery
+
+A deed is "delivered" when the person granting the deed does or says something to indicate that he intends the deed which he has executed to be binding on him.
+
+ 	 	 
+ 	3.	Stamping
+ 	 	 
+ 	 	According to the Stamp Duty Ordinance (Cap. 117), stamp duty is payable on a tenancy agreement or lease. A tenancy agreement or lease which is not duly stamped cannot be registered at the Land Registry. Nor will it be admitted as evidence in court (including the Lands Tribunal) for it to be enforceable against the parties thereto.
+The amount of stamp duty payable depends on the current rates of stamp duty, the term of the lease and the rent payable by the tenant under the lease.
+
+ 	 	 
+ 	 	
+ 	Term	Stamp duty
+(a)	
+Not exceeding one year
+0.25% x monthly rental x number of months
+(b)	
+Exceeding one year but not exceeding three years
+0.5% x average yearly rent
+(c)	
+Exceeding three years
+1% x average yearly rent
+ 	 	 
+ 	 	Example
+A tenancy agreement covers a term of three years. If the monthly rental for the first year is $10,000, the monthly rental for the second year is $12,000 and the monthly rental for the third year is $14,000, the average yearly rent is calculated as follows:
+ 	 	 
+ 	 	
+($10,000 x 12) + ($12,000 x 12) + ($14,000 x 12)
+ 
+= $144,000
+3
+ 
+ 	 	 
+ 	 	Since the tenancy is for a term not exceeding three years, the amount of stamp duty payable will be calculated by multiplying the average yearly rent by 0.5%. Since a tenancy agreement is usually signed in duplicate, when the stamp duty on a tenancy agreement has been paid, the stamp duty payable on its counterpart will be $5. The total amount of stamp duty payable is as follows:
+ 	 	 
+ 	 	
+$144,000 x 0.5% + $5 = $725
+ 	===
+ 	 	 
+ 	 	Generally speaking, the total stamp duty payable is borne by the landlord and the tenant in equal shares. In relation to the above example, each party should pay $362.50.
+Further, if a tenancy agreement stipulates that a tenant is entitled to a rent-free period (a period usually granted for the tenant to decorate the property), the amount of average yearly rent will be reduced according to the amount of rent not receivable for the rent-free period, and the amount of stamp duty payable will be reduced accordingly.
+
+ 	 	 
+ 	4.	Registration
+ 	 	 
+ 	 	Pursuant to Section 3 of the Land Registration Ordinance (Cap. 128), all leases have to be registered at the Land Registry. In practice, the solicitors who prepare the lease will submit the lease to the Land Registry for registration within one month of its execution by the landlord and tenant, in order to ensure that the priority of the lease shall commence from the date of its execution. If a lease is submitted for registration more than one month after its execution, its priority will only commence from the date of registration and not the date of its execution. A tenancy agreement is also registrable at the Land Registry. This is often done if the tenancy agreement contains a clause giving the tenant the option to renew upon its expiry.
+ 	 	 
+ 	5.	Form CR 109
+ 	 	 
+ 	 	If the property under the tenancy agreement or lease is a domestic property, meaning that the property is primarily used by the tenant as his dwelling, the landlord must file Form CR 109 at the Rating and Valuation Department. Form CR 109 has to be completed by the landlord or his representative and contains information such as the names of the parties to the tenancy agreement or lease, tenancy term, monthly rental, the party who will bear and pay the rates and the management fees. Form CR 109 has to be submitted to the Rating and Valuation Department in triplicate. Once endorsed by the Commissioner of Rating and Valuation, one copy will be returned to the landlord and another copy will be returned to the tenant.
+Form CR 109 has to be filed at the Rating and Valuation Department within one month of the execution of the tenancy agreement or lease. If Form CR 109 is filed after one month of the execution of the tenancy agreement or lease, a penalty of $310 will have to be paid. Further, failure to file Form CR 109 will render the landlord unable to take legal action for recovery of the rent. It is therefore of vital importance from the landlord's perspective that Form CR 109 should be filed at the Rating and Valuation Department.
+
+ 	 	 
+ 	6.	Bank consent
+ 	 	 
+ 	 	Where a property is mortgaged to a bank or other financial institution, the relevant mortgage deed or legal charge will usually contain a covenant by the owner of the property not to let the property or any part thereof. Hence, if an owner lets a mortgaged property without the mortgagee's prior consent, the owner will be in breach of the mortgage deed or legal charge and the mortgagee may recover the property from the owner.
+Where bank consent has been obtained, a tenant should inspect the same to see whether it is subject to any conditions.
+
+If the landlord does not agree to seek the bank's consent, the tenant should understand the potential risks that he/she may face. If the property is let without consent, the mortgagee may take legal action against the landlord to enforce the relevant provision in the mortgage deed or legal charge to recover the property. Further, if the mortgagee exercises its right of sale under the mortgage deed or legal charge upon failure of the owner to repay any instalment of the mortgage loan, it may apply to the court for the eviction of the tenant and the tenant will have to yield up vacant possession to the mortgagee within a fairly short period of time if the mortgagee has not consented to the letting.
