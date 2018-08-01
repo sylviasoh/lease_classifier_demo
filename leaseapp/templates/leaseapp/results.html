@@ -32,40 +32,53 @@
         <table>
             <caption>Confusion Matrix</caption>
             <tc>
-            <td></td>
+                <td></td>
             </tc>
             <tc>
-            <th>Leases</th>
+                <th>Predicted Leases</th>
             </tc>
-            <th>Non-Leases</th>
+            <tc>    
+                <th>Predicted Non-Leases</th>
             </tc>
             <tr>
-            <th>Leases</th>
-            <td>{{TP}}</td>
-            <td>{{FN}}</td>
+                <th>Actual Leases</th>
+                <td>{{TP}}</td>
+                <td>{{FN}}</td>
             </tr>
             <tr>
-            <th>Non-Leases</th>
-            <td>{{FP}}</td>
-            <td>{{TN}}</td>
+                <th>Actual Non-Leases</th>
+                <td>{{FP}}</td>
+                <td>{{TN}}</td>
             </tr>
         </table>
         
         <table class="striped">
-            <caption style= "padding: 10px 10px">Average Scores</caption>
+            <caption style= "padding: 10px 10px">Performance Metrics</caption>
             <tr>
-            <th>Precision</th>
-            <td>{{precision}}
+                <th></th>            
+                <th>Leases</th>
+                <th>Non-Leases</th>
+                <th>Overall</th>
+            <tr>
+            <tr>
+                <th>Precision</th>
+                <td>{{lease_prf.0|floatformat:"2"}}</td>
+                <td>{{nonlease_prf.0|floatformat:"2"}}</td>
+                <td>{{all_prf.0|floatformat:"2"}}</td>
             </tr>
     
             <tr>
-            <th>Recall</th>
-            <td>{{recall}}
+                <th>Recall</th>
+                <td>{{lease_prf.1|floatformat:"2"}}</td>
+                <td>{{nonlease_prf.1|floatformat:"2"}}</td>
+                <td>{{all_prf.1|floatformat:"2"}}</td>
             </tr>
             
             <tr>
-            <th>F1 Score</th>
-            <td>{{f1_score}}
+                <th>F1 Score</th>
+                <td>{{lease_prf.2|floatformat:"2"}}</td>
+                <td>{{nonlease_prf.2|floatformat:"2"}}</td>
+                <td>{{all_prf.2|floatformat:"2"}}</td>
             </tr>        
         </table>
     

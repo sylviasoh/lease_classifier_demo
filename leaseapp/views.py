@@ -1,11 +1,10 @@
-from django.http import HttpResponseRedirect, HttpResponse
 from django.shortcuts import render, render_to_response
 #from .forms import MainForm
-from django.views.generic.edit import FormView
 from django.conf import settings
 import os
-from sklearn.metrics import confusion_matrix, precision_recall_fscore_support,precision_score, recall_score, f1_score, classification_report
+from sklearn.metrics import confusion_matrix, precision_recall_fscore_support,classification_report
 import re
+import numpy as np
 
 # Create your views here.
     
@@ -53,8 +52,8 @@ def RunApp(request):
     
     form_inputs = request.POST
     lease_threshold = float(form_inputs['lease_threshold'])
-    phrases = [form_inputs[x] for x in form_inputs.keys() if x.startswith('word')]
-    scores = [float(form_inputs[x]) for x in form_inputs.keys() if x.startswith('point')]
+    phrases = [form_inputs[x] for x in form_inputs.keys() if x.startswith('word') and form_inputs[x]]
+    scores = [float(form_inputs[x]) for x in form_inputs.keys() if x.startswith('point') and form_inputs[x]]
     rubric = dict(zip(phrases, scores))
     
     print('predicting leases')
@@ -63,20 +62,16 @@ def RunApp(request):
     nonlease_pred = predict_docs(nonlease_contents, rubric, lease_threshold)
     
     all_predict = lease_pred + nonlease_pred
-    all_answers = [LEASE_LABEL] * len(lease_contents) + [NONLEASE_LABEL] * len(nonlease_contents)
+    lease_ans = [LEASE_LABEL] * len(lease_contents)
+    nonlease_ans = [NONLEASE_LABEL] * len(nonlease_contents) 
+    all_answers = lease_ans + nonlease_ans
     
-    precision, recall, f1, support = precision_recall_fscore_support(all_answers,all_predict, average='weighted')
+    # prepare prf for results
     print(classification_report(all_answers,all_predict))
-    
-#    precision = precision_score(all_answers, all_predict)
-    results['precision'] = precision
-
-#    recall = recall_score(all_answers, all_predict)
-    results['recall'] = recall
-
-#    f1 = f1_score(all_answers, all_predict)
-    results['f1_score'] = f1
-    
+    results['lease_prf'] = precision_recall_fscore_support(lease_ans, lease_pred, average='weighted')
+    results['nonlease_prf'] = precision_recall_fscore_support(nonlease_ans, nonlease_pred, average='weighted')
+    results['all_prf'] = precision_recall_fscore_support(all_answers, all_predict, average='weighted')
+       
     matrix = confusion_matrix(all_answers,all_predict)
     results['TP'] = matrix[0][0]
     results['FN'] = matrix[0][1]
