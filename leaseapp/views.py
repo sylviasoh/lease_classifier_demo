@@ -27,7 +27,7 @@ def RunApp(request):
     lease_contents = [get_f_contents(path) for path in leasepaths]
     nonlease_contents = [get_f_contents(path) for path in nonleasepaths]
     
-    LEASE_LABEL = +1
+    LEASE_LABEL = 1
     NONLEASE_LABEL = -1
     # run and get scores    
     def predict_docs(docs, rubric, lease_threshold):
@@ -61,15 +61,17 @@ def RunApp(request):
     print('predicting nonleases')
     nonlease_pred = predict_docs(nonlease_contents, rubric, lease_threshold)
     
-    all_predict = lease_pred + nonlease_pred
     lease_ans = [LEASE_LABEL] * len(lease_contents)
     nonlease_ans = [NONLEASE_LABEL] * len(nonlease_contents) 
+    all_predict = lease_pred + nonlease_pred
     all_answers = lease_ans + nonlease_ans
     
     # prepare prf for results
     print(classification_report(all_answers,all_predict))
-    results['lease_prf'] = precision_recall_fscore_support(lease_ans, lease_pred, average='weighted')
-    results['nonlease_prf'] = precision_recall_fscore_support(nonlease_ans, nonlease_pred, average='weighted')
+
+    metrics_by_class = precision_recall_fscore_support(all_answers, all_predict)
+    results['nonlease_prf'] = [metrics_by_class[i][0] for i in range(0,3)]
+    results['lease_prf'] = [metrics_by_class[i][1] for i in range(0,3)]
     results['all_prf'] = precision_recall_fscore_support(all_answers, all_predict, average='weighted')
        
     matrix = confusion_matrix(all_answers,all_predict)
