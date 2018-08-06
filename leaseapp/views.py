@@ -75,11 +75,8 @@ def RunApp(request):
     results['all_prf'] = precision_recall_fscore_support(all_answers, all_predict, average='weighted')
        
     matrix = confusion_matrix(all_answers,all_predict)
-    results['TP'] = matrix[0][0]
-    results['FN'] = matrix[0][1]
-    results['FP'] = matrix[1][0]
-    results['TN'] = matrix[1][1]
-    print(results)
+    print(matrix)
+    results['TN'], results['FP'], results['FN'], results['TP'] = matrix.ravel()
     return results
 
 def ResultsView(request):
